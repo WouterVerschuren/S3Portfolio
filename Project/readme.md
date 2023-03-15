@@ -1,8 +1,8 @@
 #frontend
 
-[Link to frontend code](https://github.com/WouterVerschuren/UrbanExplorerAPI.git)
+[Link to frontend code]()
 
 
 #backend
 
-Link to backend Code
+[Link to backend Code](https://github.com/WouterVerschuren/UrbanExplorerAPI.git)
