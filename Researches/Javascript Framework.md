@@ -1,13 +1,13 @@
 ## What is the most suitable JavaScript framework to use for developing a web application? 
 
 For my frontend project I want to use a JavaScript framework. The main reasons I chose to work with JavaScript are:
-1.	Interactivity:
+### 1.	Interactivity:
 JavaScript enables you to create dynamic and interactive web pages that can respond to user actions in real-time, without requiring a page refresh. This will increase the interactivity.
-2.	Improved user Experience: 
+### 2.	Improved user Experience: 
 Because JavaScript’s interactivity is good, the user experience will also improve making it easier for users to navigate the pages.
-3.	Scalability:
+### 3.	Scalability:
 JavaScript’s frameworks are designed to make scalability easier. This will be useful to maintain the webapp.
-4. Experience:
+###4. Experience:
 A more personal reason I chose to work with javascript is to increase my skill level with this programming language as I don't have much experience with it.
 
 
