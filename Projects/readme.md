@@ -1,6 +1,6 @@
 # frontend
 
-[Link to frontend code](https://github.com/WouterVerschuren/UrbanExplorerFrontend.git)
+[Link to frontend code](https://github.com/WouterVerschuren/urbanexplorerfrontend.git)
 
 
 # backend
