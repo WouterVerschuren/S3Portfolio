@@ -5,4 +5,4 @@
 
 # backend
 
-[Link to backend Code](https://github.com/WouterVerschuren/UrbanExplorerAPI.git)
+[Link to backend Code](https://github.com/WouterVerschuren/UrbanExplorerFrontend.git)
