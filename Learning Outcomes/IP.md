@@ -23,7 +23,7 @@ Tooling and methodology: Carry out, monitor and report on unit integration, regr
 
 ### how I plan to show this learning outcome in my project: 
 
-## 2 CI/CD
+## 4 CI/CD
 
 You design and implement a (semi)automated software release process that matches the needs of the project context.
 
@@ -33,7 +33,7 @@ Design and implement: You design a release process and implement a continuous in
 
 ### how I plan to show this learning outcome in my project: 
 
-## 2 Professional
+## 8 Professional
 
 You act in a professional manner during software development and learning.
 
