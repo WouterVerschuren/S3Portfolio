@@ -25,7 +25,7 @@ Vue is a lightweight and easy-to-learn framework that is well-suited for small t
 # Conclusion:
 after doing this research I am gonna choose to work with React. my reseasing for using react is mainly because it has the most documentation on the internet. React has a large cummintiy which makes it easier to learn for someone like me who has no exeperience with javascript. One more reason for me too choose React is because there are many tutorials with the Google Maps API (an API I'm planning to use) that use React. This will make it easier for me to follow. These two reasons are also why I'm not choosing for Vue since this framework doesn't have as much documentation. The reason I'm not choosing for Angalar is because of the fact that it's mostly used for large skill projects and my project is only a small one.
 
-
+![test](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)
 
 # References:
 
