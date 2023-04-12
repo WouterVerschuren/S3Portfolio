@@ -27,7 +27,7 @@ after doing this research I am gonna choose to work with React. my reseasing for
 
 
 
-#References:
+# References:
 
 https://2muchcoffee.com/blog/8-reasons-you-shouldnt-invest-in-development-with-angular-and-why/
 
