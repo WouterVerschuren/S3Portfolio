@@ -1,4 +1,10 @@
 # Semester 3 Portfolio Wouter Verschuren
+
+##Table of contents:
+[1. Intdroduction](##Introducation)
+
+
+##Introducation:
 This Git repository contains all my projects, documentation and where to find everything
 
 ## Documentation
