@@ -7,6 +7,7 @@
   - [2.2 Software Quality](#2-Software-quality)
   - [2.3 Agile Method](#3-Agile-method)
   - [2.4 CI/CD](#4-CI/CD)
+  - [2.5 Cultural differences and ethics](#5-Cultural-differences-and-ethics)
 
 ## Introducation:
 
@@ -82,3 +83,17 @@ Design and implement: You design a release process and implement a continuous in
 
 ### how I plan to show this learning outcome in my project: 
 To show I have enough knowledge of CI/CD I am hosting my frontend and back end in azure. 
+
+## 5 Cultural differences and ethics
+
+You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development.
+
+Clarifications:
+
+Recognize: Recognition is based on theoretically substantiated awareness of cultural differences and ethical aspects in software engineering.
+
+Take into account: Adapt your communication, working, and behavior styles to reflect project stakeholders from different cultures;
+
+Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.  
+
+### how I plan to show this learning outcome in my project: 
