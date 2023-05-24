@@ -3,6 +3,7 @@
 ## Table of contents:
 - [1. Intdroduction](#Introducation)
 - [2. Learning Outcomes](#Learning-Outcomes)
+...- [2.1 1. web Application](#1 Web-application)
 
 ## Introducation:
 
@@ -29,3 +30,18 @@ This folder contains all the project information. It consists of all the code an
 | 6 | Requirements and Design | You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**. | **Multiple types of test techniques:** You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance. |
 | 7 | Business processes | You analyze and describe **simple** business processes that are **related** to your project. | **Simple:** Involving stakeholders, predominantly sequential processes with one or two alternative paths.<br>**Related:** Business processes during which the software that you are developing will be used (business processes that the software must support by fully or partially automating them).<br>**or**<br>Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance). |
 | 8 | Professional | You act in a **professional manner** during software development and learning. | **Professional manner:** You develop software as a team effort according to a prescribed software methodology and following team agreements. You are able to track your work progress and communicate your progress with the team.<br>You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions. You choose and substantiate solutions for a given problem. |
+
+## 1 Web application
+
+You design and build user-friendly, full-stack web applications.
+
+Clarification:
+
+User friendly: You apply best practices when creating user interfaces and basic user experience testing and development techniques.
+
+Full-stack: You design and build a full stack application using a commonly accepted front end Javascript framework and back end application implementing relevant communication protocols, persistence of data by usage of ORM and addressing asynchronous communication issues.
+
+
+### how I plan to show this learning outcome in my project: 
+
+To show I have enough knowledge of this learning outcome I made a frontend webapp using javascript. To know which javascript framework I am going to be using for my frontend I have made a [Research Paper](https://github.com/WouterVerschuren/S3Portfolio/blob/main/Documentation/Researches/Javascript%20Framework.md) on which javascript framework would be the best for me and my project. For my backend I made a WepAPI using asp.net C#. My database is being hosted on azure. 
