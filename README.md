@@ -30,10 +30,11 @@ This folder contains all the project information. It consists of all the code an
 
 ## Learning Outcome 1: Web Application (IP)(#learning-outcome-1-web-application-ip)
 *You design and build **user-friendly**, **full-stack** web applications.*
-- [x] Wheretobinge Structure
-- [X] Wheretobinge ORM
-- [ ] Wheretobinge Frontend
-- [ ] Wheretobinge (final finished)
+- [x] project Structure
+- [ ] project ORM
+- [ ] project Frontend
+- [ ] project backend
+- [ ] project (final finished)
 
 
 ## Learning Outcome 1: Web Application (GP)(#learning-outcome-1-web-application-gp)
