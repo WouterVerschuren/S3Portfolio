@@ -34,6 +34,7 @@ Clarification:
 Design and implement: You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
 
 ### how I plan to show this learning outcome in my project: 
+To show I have enough knowledge of CI/CD I am hosting my frontend and back end in azure. 
 
 ## 8 Professional
 
