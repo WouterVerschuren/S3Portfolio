@@ -6,6 +6,7 @@
   - [2.1 Web Application](#1-Web-application)
   - [2.2 Software Quality](#2-Software-quality)
   - [2.3 Agile Method](#3-Agile-method)
+  - [2.4 CI/CD](#4-CI/CD)
 
 ## Introducation:
 
@@ -70,3 +71,14 @@ Choose: You are aware of the most popular agile methods and their underlying agi
 ### how I plan to show this learning outcome in my project: 
 
 To show I have enough knowledge of this learning outcomes I am going to do a research about what agile methods there are and which would work the best for me.
+
+## 4 CI/CD
+
+You design and implement a (semi)automated software release process that matches the needs of the project context.
+
+Clarification:
+
+Design and implement: You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
+
+### how I plan to show this learning outcome in my project: 
+To show I have enough knowledge of CI/CD I am hosting my frontend and back end in azure. 
