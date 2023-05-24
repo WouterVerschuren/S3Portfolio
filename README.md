@@ -2,15 +2,16 @@
 
 ## Table of contents:
 - [1. Intdroduction](#Introducation)
-- [2. Learning Outcomes](#Learning-Outcomes)
-  - [2.1 Web Application](#1-Web-application)
-  - [2.2 Software Quality](#2-Software-quality)
-  - [2.3 Agile Method](#3-Agile-method)
-  - [2.4 CI/CD](#4-CI/CD)
-  - [2.5 Cultural differences and ethics](#5-Cultural-differences-and-ethics)
-  - [2.6 Requirements and Design](#6-Requirements-and-Design)
-  - [2.7 Bussiness Process](#7-Bussiness-Process)
-  - [2.8 Professional](#8-Professional)
+- [2. to do list](#To-do:)
+- [3. Learning Outcomes](#Learning-Outcomes)
+  - [3.1 Web Application](#1-Web-application)
+  - [3.2 Software Quality](#2-Software-quality)
+  - [3.3 Agile Method](#3-Agile-method)
+  - [3.4 CI/CD](#4-CI/CD)
+  - [3.5 Cultural differences and ethics](#5-Cultural-differences-and-ethics)
+  - [3.6 Requirements and Design](#6-Requirements-and-Design)
+  - [3.7 Bussiness Process](#7-Bussiness-Process)
+  - [3.8 Professional](#8-Professional)
 
 ## Introducation:
 
@@ -24,6 +25,73 @@ This folder contains both the Learning outcomes for the Group Project and the le
 
 ## Project
 This folder contains all the project information. It consists of all the code and other information. 
+
+# To do:
+
+## Learning Outcome 1: Web Application (IP)(#learning-outcome-1-web-application-ip)
+*You design and build **user-friendly**, **full-stack** web applications.*
+- [x] Wheretobinge Structure
+- [X] Wheretobinge ORM
+- [ ] Wheretobinge Frontend
+- [ ] Wheretobinge (final finished)
+
+
+## Learning Outcome 1: Web Application (GP)(#learning-outcome-1-web-application-gp)
+*You design and build **user-friendly**, **full-stack** web applications.*
+- [X] GroopySwoopy Back end 
+- [ ] GroopySwoopy Front end
+
+## Learning Outcome 2: Software Quality(#learning-outcome-2-software-quality)
+*You use software **tooling and methodology** that continuously monitors and improve the software quality during software development.*
+- [ ] testen (https://fhict.instructure.com/courses/12992/pages/testing-what-when-and-where?module_item_id=911581)
+- [ ] code quality (IP)
+- [ ] code quality (GP)
+- [ ] automated code scanning tool (IP)
+
+## Learning Outcome 3: Agile Method(#learning-outcome-3-agile-method)
+*You can implement the software process for your project according to a given agile software development method.*
+- [x] Research Scrum
+- [ ] Research waterfall
+- [ ] Research Kanban
+- [ ] Researchpaper on agIle
+
+## Learning Outcome 4: CI/CD(#learning-outcome-4-cicd)
+*You **design and implement** a (semi)automated software release process that matches the needs of the project context.*
+- [x] ReseaRch CI (https://fhict.instructure.com/courses/12992/pages/continuous-integration?module_item_id=911586)
+- [x] Research CD
+- [x] Setting up CI
+- [ ] setting up CD
+- [x] CI/CD (GP) (partial)
+
+## Learning Outcome 5: Cultural Differences and Ethics(#learning-outcome-5-cultural-differences-and-ethics)
+*You **recognize** and **take into account** cultural differences when working with multi-site teams and are aware of ethical aspects in software development.*
+- [ ] Research paper 
+- [x] group management
+- [ ] software ethics 
+
+
+## Learning Outcome 6: Design (GP + IP)(#learning-outcome-6-requirements)
+*You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using **multiple types of test techniques**.*
+- [x] Research on basics
+- [ ] design (working on it)
+- [ ] testing
+
+## Learning Outcome 7: Business processes(#learning-outcome-7-business-processes)
+*You can explain **simple** business processes and **relate** them to the development of your software project.*
+- [ ] analyzing and modeling an exisitng business process in project
+- [ ] analyzing process and improving on conclusions
+- [ ] modeled new process and improved involment of roles in project
+ 
+## Learning Outcome 8: Professional (IP)(#learning-outcome-8-professional-ip)(#learning-outcome-8-professional-ip)
+*You act in a **professional manner** during software development and learning.*
+- [ ] 
+- [ ] 
+- [ ] 
+
+## Learning Outcome 8: Professional (GP)(#learning-outcome-8-professional-gp)(#learning-outcome-8-professional-gp)
+*You act in a **professional manner** during software development and learning.*
+- [x] Team Communication
+- [ ] Communication with the Stakeholders
 
 ## Learning Outcomes:
 
