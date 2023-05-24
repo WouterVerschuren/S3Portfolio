@@ -3,8 +3,9 @@
 ## Table of contents:
 - [1. Intdroduction](#Introducation)
 - [2. Learning Outcomes](#Learning-Outcomes)
-  - [2.1 web Application](#1-Web-application)
-  - [2.2 software quality](#2-Software-quality)
+  - [2.1 Web Application](#1-Web-application)
+  - [2.2 Software Quality](#2-Software-quality)
+  - [2.3 Agile Method](#3.-Agile-method)
 
 ## Introducation:
 
@@ -57,3 +58,15 @@ Clarification:
 Tooling and methodology: Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as well as applying static code analysis and code reviews.
 
 ### how I plan to show this learning outcome in my project: 
+
+## 3. Agile method
+
+You choose and implement the most suitable agile software development method for your software project.
+
+Clarification:
+
+Choose: You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on well-defined selection criteria and context analyses.
+
+### how I plan to show this learning outcome in my project: 
+
+To show I have enough knowledge of this learning outcomes I am going to do a research about what agile methods there are and which would work the best for me.
