@@ -5,7 +5,7 @@
 - [2. Learning Outcomes](#Learning-Outcomes)
   - [2.1 Web Application](#1-Web-application)
   - [2.2 Software Quality](#2-Software-quality)
-  - [2.3 Agile Method](#3.-Agile-method)
+  - [2.3 Agile Method](#3-Agile-method)
 
 ## Introducation:
 
@@ -59,7 +59,7 @@ Tooling and methodology: Carry out, monitor and report on unit integration, regr
 
 ### how I plan to show this learning outcome in my project: 
 
-## 3. Agile method
+## 3 Agile method
 
 You choose and implement the most suitable agile software development method for your software project.
 
