@@ -97,3 +97,27 @@ Take into account: Adapt your communication, working, and behavior styles to ref
 Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.  
 
 ### how I plan to show this learning outcome in my project: 
+
+## 6 Requirements and Design
+
+You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques.
+
+Clarifications:
+
+Multiple types of test techniques: You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.
+
+### how I plan to show this learning outcome in my project: 
+
+## 7 Cultural differences and ethics
+
+You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development.
+
+Clarifications:
+
+Recognize: Recognition is based on theoretically substantiated awareness of cultural differences and ethical aspects in software engineering.
+
+Take into account: Adapt your communication, working, and behavior styles to reflect project stakeholders from different cultures;
+
+Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.  
+
+### how I plan to show this learning outcome in my project: 
