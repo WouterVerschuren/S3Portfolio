@@ -15,4 +15,33 @@ This folder contains both the Learning outcomes for the Group Project and the le
 
 ## Project
 This folder contains all the project information. It consists of all the code and other information. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Introducation:
+dgfsdgs
