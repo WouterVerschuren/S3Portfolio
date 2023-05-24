@@ -10,6 +10,8 @@ Choose: You are aware of the most popular agile methods and their underlying agi
 
 ### how I plan to show this learning outcome in my project: 
 
+To show I have enough knowledge of this learning outcomes I am going to do a research about what agile methods there are and which would work the best for me.
+
 ## 5. Cultural differences and ethics
 
 You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development.
