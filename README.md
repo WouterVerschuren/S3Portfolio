@@ -3,7 +3,7 @@
 ## Table of contents:
 - [1. Intdroduction](#Introducation)
 - [2. Learning Outcomes](#Learning-Outcomes)
-...- [2.1 1. web Application](#1 Web-application)
+..* [2.1 1. web Application](#1 Web-application)
 
 ## Introducation:
 
