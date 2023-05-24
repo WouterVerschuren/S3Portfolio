@@ -2,8 +2,9 @@
 
 ## Table of contents:
 [1. Intdroduction](#Introducation)
+[2. Learning Outcomes](#Learning-Outcomes)
 
-
+## Introducation:
 
 This Git repository contains all my projects, documentation and where to find everything
 
@@ -16,32 +17,6 @@ This folder contains both the Learning outcomes for the Group Project and the le
 ## Project
 This folder contains all the project information. It consists of all the code and other information. 
 
+## Learning Outcomes:
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Introducation:
-dgfsdgs
