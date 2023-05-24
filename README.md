@@ -1,8 +1,8 @@
 # Semester 3 Portfolio Wouter Verschuren
 
 ## Table of contents:
-[1. Intdroduction](#Introducation)
-[2. Learning Outcomes](#Learning-Outcomes)
+- [1. Intdroduction](#Introducation)
+- [2. Learning Outcomes](#Learning-Outcomes)
 
 ## Introducation:
 
