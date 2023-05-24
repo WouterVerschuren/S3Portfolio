@@ -8,6 +8,9 @@
   - [2.3 Agile Method](#3-Agile-method)
   - [2.4 CI/CD](#4-CI/CD)
   - [2.5 Cultural differences and ethics](#5-Cultural-differences-and-ethics)
+  - [2.6 Requirements and Design](#6-Requirements-and-Design)
+  - [2.7 Bussiness Process](#7-Bussiness-Process)
+  - [2.8 Professional](#8-Professional)
 
 ## Introducation:
 
@@ -108,16 +111,30 @@ Multiple types of test techniques: You apply user acceptance testing and stakeho
 
 ### how I plan to show this learning outcome in my project: 
 
-## 7 Cultural differences and ethics
+## 7 Bussiness Process
 
-You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development.
+You analyze and describe simple business processes that are related to your project.
 
 Clarifications:
 
-Recognize: Recognition is based on theoretically substantiated awareness of cultural differences and ethical aspects in software engineering.
+Simple: Involving stakeholders, predominantly sequential processes with one or two alternative paths.
+Related: Business processes during which the software that you are developing will be used (business processes that the software must support by fully or partially automating them).
+or
+Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance).
 
-Take into account: Adapt your communication, working, and behavior styles to reflect project stakeholders from different cultures;
+### how I plan to show this learning outcome in my project: 
 
-Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.  
+## 8 Professional
+
+You act in a professional manner during software development and learning.
+
+Clarification:
+
+Professional manner: 
+
+You develop software as a team effort according to a prescribed software methodology and following team agreements. You are able to track your work progress and communicate your progress with the team.
+
+You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions.
+You choose and substantiate solutions for a given problem.
 
 ### how I plan to show this learning outcome in my project: 
