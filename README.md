@@ -2,7 +2,7 @@
 
 ## Table of contents:
 - [1. Intdroduction](#Introducation)
-- [2. to do list](#To-do:)
+- [2. to do list](#To-do)
 - [3. Learning Outcomes](#Learning-Outcomes)
   - [3.1 Web Application](#1-Web-application)
   - [3.2 Software Quality](#2-Software-quality)
