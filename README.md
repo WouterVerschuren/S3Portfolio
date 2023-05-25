@@ -121,6 +121,7 @@ Full-stack: You design and build a full stack application using a commonly accep
 ### how I plan to show this learning outcome in my project: 
 
 To show I have enough knowledge of this learning outcome I made a frontend webapp using javascript. To know which javascript framework I am going to be using for my frontend I have made a [Research Paper](https://github.com/WouterVerschuren/S3Portfolio/blob/main/Documentation/Researches/Javascript%20Framework.md) on which javascript framework would be the best for me and my project. For my backend I made a WepAPI using asp.net C#. My database is being hosted on azure. 
+![Screenshot 2023-04-12 103940](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/b4fe2e88-f799-4486-87b5-6e1d2faaa049)
 
 
 ## 2 Software quality
