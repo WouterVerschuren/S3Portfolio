@@ -129,8 +129,12 @@ I choice a very simple design with a minamalistic/clean look.
 on the first page you'll see all the location's that have been added to the map. once you click on one of these location you'll see information about the location and a route on how to get there.
 location's that haven't been checked by a moderator will show on the map but will be a red color indicating that they haven't been checked and also won't show a route on how to get there. I do this so that when places are illegal to go to won't be trespast.
 
-![Screenshot 2023-04-12 103940](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/b4fe2e88-f799-4486-87b5-6e1d2faaa049)
 ![Screenshot 2023-05-25 092816](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/0b043c84-c056-487e-9274-aa9cc9602ec7)
+on the second page you'll be able to add your own location to the site. you'll be able to add a name, location, infomation (such as information about the place and the route to get there) and you can add images you took. 
+
+![Screenshot 2023-04-12 103940](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/b4fe2e88-f799-4486-87b5-6e1d2faaa049)
+on the third page you'll be able to see places you added yourself to the map. you will also be able to delete or edit locations here. 
+
 
 
 
