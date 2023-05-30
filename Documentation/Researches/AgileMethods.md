@@ -39,20 +39,20 @@ there are many agile methods you can use but the 5 most used ones are:
 
 
 
-Scrum:
+## Scrum:
 Scrum is an agile method that has a lot of transparency and collaboration among team members, this allows frequent feedback and adaptability to changing requirements in short iterations called sprints. however it does requires strong commitment and discipline from team members and can be challenging to implement in large and complex projects. but because our group isn't that big scrum would be a good agile method to use for our project.
 
-Kanban:
+## Kanban:
 Kanban is an agile method that gives a visual representation of work in progress. this enables it to have a better workload balance. it also helps continuous delivery and faster response times. However it may lack specific time-based commitments and requires careful monitoring to prevent work overload.
 
-Extreme Programming (XP):
+## Extreme Programming (XP):
 Extreme Programming is an agile method that use a lot of frequent communication and collaboration. extreme programming also puts customer satisfaction and focusing on delivering high-quality software through practices like pair programming and test-driven development first. however it requires a significant shift in team culture and this may cause it to be challenging to use in large projects or teams.
 
-Lean Development:
+## Lean Development:
 lean development is an agile method that focuses on delivering good products and promoting contiuouns improvement and effiency. however lean development also requires a thorough understanding of the lean principles and a lot of upfront planning. this causes it to be challenging to implement.
 
-Crystal:
+## Crystal:
 Crystal is an agile method that offers a flexible and lightweight approach to software development, providing a set of guidelines tailored to the specific project's characteristics and team dynamics; however, it requires careful consideration and customization, and may not be suitable for organizations seeking a more standardized approach.
 
-
+## Our project:
 For our group project we choose to use scrum as we think this agile method would give us the most structure in our group. Structure is very important to us. Since I have worked with this group before I know that we really need a structured and good planning and a good knowledge of our other team mates to be able to finish our project I think that scrum will be the best option. The Scrum board will give a clear indecation of what everyone is doing at the moment. This will help us as we have experienced before that if we don't know whate everyone is doing in our group we get less done and make a lot more mistakes.
