@@ -30,12 +30,11 @@ Agile is a set of frameworks and practices that aim to improve software developm
 
 12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
-there are many agile methods you can use but the 5 most used ones are:
+there are many agile methods you can use but the 4 most used ones are:
 - scrum
 - kanban
 - extreme programming
 - lean development
-- crystal
 
 
 
@@ -51,8 +50,14 @@ Extreme Programming is an agile method that use a lot of frequent communication 
 # Lean Development:
 lean development is an agile method that focuses on delivering good products and promoting contiuouns improvement and effiency. however lean development also requires a thorough understanding of the lean principles and a lot of upfront planning. this causes it to be challenging to implement.
 
-## Crystal:
-Crystal is an agile method that offers a flexible and lightweight approach to software development, providing a set of guidelines tailored to the specific project's characteristics and team dynamics; however, it requires careful consideration and customization, and may not be suitable for organizations seeking a more standardized approach.
-
 ## Our project:
 For our group project we choose to use scrum as we think this agile method would give us the most structure in our group. Structure is very important to us. Since I have worked with this group before I know that we really need a structured and good planning and a good knowledge of our other team mates to be able to finish our project I think that scrum will be the best option. The Scrum board will give a clear indecation of what everyone is doing at the moment. This will help us as we have experienced before that if we don't know whate everyone is doing in our group we get less done and make a lot more mistakes.
+
+
+# sources:
+https://agilemanifesto.org/principles.html 
+https://en.wikipedia.org/wiki/Agile_software_development
+https://en.wikipedia.org/wiki/Scrum_(software_development)
+https://en.wikipedia.org/wiki/Kanban_(development)
+https://en.wikipedia.org/wiki/Extreme_programming
+https://www.atlassian.com/agile/kanban/kanban-vs-scrum#:~:text=Summary%3A%20Kanban%20is%20a%20project,values%2C%20principles%2C%20and%20practices.
