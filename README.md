@@ -159,6 +159,13 @@ Choose: You are aware of the most popular agile methods and their underlying agi
 ### how I plan to show this learning outcome in my project: 
 
 To show I have enough knowledge of this learning outcomes I am going to do a research about what agile methods there are and which would work the best for me.
+for a group project we choose to make use of the scrum agile method as this felt for us as the best method to use. As I worked with this group before in group projects, I knew that it was important for us to have a good planning and structure in the group. Scrum makes use of sprints that are about 3-4 weeks long and makes use of a scrum board where everyone can see what everyone is doing and see what is still left to do. this will give good structure to the group where needed. 
+
+since scrum is designed for unpredicatbale projects with its adaptability, flexibility and continuous improvemnt. it's also great for a group project as we work together with people finland it can sometimes be a little bit harder to communicate between choices and options. hence it can be usefull to use scrum for when unexpected decisions weren't as intended and cause problems. in this the adaptability of scrum will make it easier to fix the problems you have.
+
+![blog-scrum-process-opt](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/55bd4668-b551-470c-9b0b-37cf404bbb63)
+
+
 
 ## 4 CI/CD
 
