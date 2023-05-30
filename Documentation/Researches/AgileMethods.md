@@ -4,7 +4,7 @@
 ## What is Agile?
 Agile is a set of frameworks and practices that aim to improve software development. agile is used within a group to make sure that the group finish the project in phases and it helps with continuos collaboration and improvemnt.
 
-agile makes use of 12 principles:
+## the 12 principles of agile:
 
 1. The highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
@@ -48,7 +48,7 @@ Kanban is an agile method that gives a visual representation of work in progress
 ## Extreme Programming (XP):
 Extreme Programming is an agile method that use a lot of frequent communication and collaboration. extreme programming also puts customer satisfaction and focusing on delivering high-quality software through practices like pair programming and test-driven development first. however it requires a significant shift in team culture and this may cause it to be challenging to use in large projects or teams.
 
-## Lean Development:
+# Lean Development:
 lean development is an agile method that focuses on delivering good products and promoting contiuouns improvement and effiency. however lean development also requires a thorough understanding of the lean principles and a lot of upfront planning. this causes it to be challenging to implement.
 
 ## Crystal:
