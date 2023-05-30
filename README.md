@@ -204,21 +204,7 @@ As a person who is dutch I tend to have a lot of trades from dutch culture. the 
 
 
 ## What did you do to improve the group communications with respect to cultural differences?
-For our group project we are currently working together with people from finland. Usually Finnish people tend to be a bit shy when you meet them for the first time and take a long time opening up. this sometimes made it diffecult to know if they were okay with certain decisions we made as they wouldn't be as harsh as we dutchies are used to. because of this we decided to make decisions we made them very clear so that they had enough time to give their honest opinion about them. We also made clear rules about it all so that it was easy from 
-For our group project we are working together with the OAMK group in Finland. Finnish people tend to be more shy and serious in the beginning, thats why in the beginning of our project I tried to step up as a mediator and set some rules in which everyone could be comfortable and provide the best version of themselves, I also manage the communication channel which is our discord and act as the main person in between if we need anything.
-software ethics
-Ethics in my application
-You have made an analysis of the ethical aspects of your application.
-
-Which ethical aspects play a role in your project?
-
-The main ethical issue for my project is the handling of security as people can make accounts in which personal information is set.
-
-Do you foresee ethical conflicts caused by your software? What kind of?
-
-There should be no immediate ethical conflict by my software as there is no interaction between people.
-
-Can you do something to avoid or minimize these conflicts?
+For our group project we are currently working together with people from finland. Usually Finnish people tend to be a bit shy when you meet them for the first time and take a long time opening up. this sometimes made it diffecult to know if they were okay with certain decisions we made as they wouldn't be as harsh as we dutchies are used to. because of this we decided to make decisions we made them very clear so that they had enough time to give their honest opinion about them. We also made clear rules about everything so that everything was much easier to communicate between the group this helped everyone feel comfortable in both groups. As for myself I tried to be a lot calmer and softer with my replies as saying things to harsh could make the finnish people feel uncomfortable. We also had a group discord where we could discuss all our problems and ideas. This also helped us keep a good commmunication.
 
 Irrelevant
 
