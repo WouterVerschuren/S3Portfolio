@@ -54,14 +54,14 @@ This folder contains all the project information. It consists of all the code an
 - [x] Research Scrum
 - [ ] Research waterfall
 - [ ] Research Kanban
-- [ ] Researchpaper on agIle
+- [ ] Researchpaper on agile
 
 ## Learning Outcome 4: CI/CD(#learning-outcome-4-cicd)
 *You **design and implement** a (semi)automated software release process that matches the needs of the project context.*
 - [x] ReseaRch CI (https://fhict.instructure.com/courses/12992/pages/continuous-integration?module_item_id=911586)
 - [x] Research CD
-- [x] Setting up CI
-- [ ] setting up CD
+- [ ] Setting up CI
+- [x] setting up CD
 - [x] CI/CD (GP) (partial)
 
 ## Learning Outcome 5: Cultural Differences and Ethics(#learning-outcome-5-cultural-differences-and-ethics)
@@ -158,7 +158,7 @@ Choose: You are aware of the most popular agile methods and their underlying agi
 
 ### how I plan to show this learning outcome in my project: 
 
-To show I have enough knowledge of this learning outcomes I am going to do a research about what agile methods there are and which would work the best for me.
+To show I have enough knowledge of this learning outcomes I mate a [research paper](https://github.com/WouterVerschuren/S3Portfolio/blob/main/Documentation/Researches/AgileMethods.md) about what agile methods there are and which would work the best for me.
 for a group project we choose to make use of the scrum agile method as this felt for us as the best method to use. As I worked with this group before in group projects, I knew that it was important for us to have a good planning and structure in the group. Scrum makes use of sprints that are about 3-4 weeks long and makes use of a scrum board where everyone can see what everyone is doing and see what is still left to do. this will give good structure to the group where needed. 
 
 since scrum is designed for unpredicatbale projects with its adaptability, flexibility and continuous improvemnt. it's also great for a group project as we work together with people finland it can sometimes be a little bit harder to communicate between choices and options. hence it can be usefull to use scrum for when unexpected decisions weren't as intended and cause problems. in this the adaptability of scrum will make it easier to fix the problems you have.
