@@ -56,8 +56,13 @@ For our group project we choose to use scrum as we think this agile method would
 
 # sources:
 https://agilemanifesto.org/principles.html 
+
 https://en.wikipedia.org/wiki/Agile_software_development
+
 https://en.wikipedia.org/wiki/Scrum_(software_development)
+
 https://en.wikipedia.org/wiki/Kanban_(development)
+
 https://en.wikipedia.org/wiki/Extreme_programming
+
 https://www.atlassian.com/agile/kanban/kanban-vs-scrum#:~:text=Summary%3A%20Kanban%20is%20a%20project,values%2C%20principles%2C%20and%20practices.
