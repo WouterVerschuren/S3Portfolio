@@ -6,7 +6,7 @@ Agile is a set of frameworks and practices that aim to improve software developm
 
 agile makes use of 12 principles:
 
-1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+1. The highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
 2. Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.
 
@@ -53,3 +53,6 @@ lean development is an agile method that focuses on delivering good products and
 
 Crystal:
 Crystal is an agile method that offers a flexible and lightweight approach to software development, providing a set of guidelines tailored to the specific project's characteristics and team dynamics; however, it requires careful consideration and customization, and may not be suitable for organizations seeking a more standardized approach.
+
+
+For our group project we choose to use scrum as we think this agile method would give us the most structure in our group. Structure is very important to us. Since I have worked with this group before I know that we really need a structured and good planning and a good knowledge of our other team mates to be able to finish our project I think that scrum will be the best option. The Scrum board will give a clear indecation of what everyone is doing at the moment. This will help us as we have experienced before that if we don't know whate everyone is doing in our group we get less done and make a lot more mistakes.
