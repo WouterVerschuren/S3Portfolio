@@ -241,6 +241,22 @@ For our project We have three stakeholders: Frank, Samuil and Meija. their goal 
 
 ## Process analysis:
 
+### What is a business process? 
+A business process is an activity or multiple activities that accomplish a specific organized goal. The goal of a business process is to produce a consistent outcome and to be as specific as possible to do this. a bussiness project should have a purposeful goal.
+
+### How does a business proces relate to software applications? 
+BPM (Business Process management) relates with software in multiple ways:
+
+- Automation and Efficiency: Software applications are often developed to automate and streamline business processes. by optimizing the technology organiztions can elimninate manual and time consuming tasks and this will make the efficiency higher.
+
+- Workflow and Collaboration: Software applications can facilitate and enforce the flow of tasks and information within a business process. They provide a platform for collaboration and communication among employees, departments, and stakeholders involved in the process. For instance, project management software allows teams to assign tasks, track progress, and communicate effectively, enhancing collaboration and ensuring smooth workflow.
+
+Data Management and Analysis: Business processes generate a vast amount of data. Software applications can capture, store, and process this data, enabling organizations to analyze and derive insights for decision-making and process improvement. Business intelligence tools and analytics software are examples of applications that help organizations make data-driven decisions based on the analysis of business process data.
+
+Customization and Integration: Organizations may need to customize or tailor software applications to align with their specific business processes. This customization can involve configuring settings, creating workflows, or even developing custom modules or functionalities. Additionally, software applications may need to integrate with other systems or applications used within the organization to ensure smooth information flow across different processes.
+
+- Continuous Improvement: A business evolves and gets bigger over time. to support this contious growing and evolvement, software applicatoin can help by prividing flexibility, scalability and the ability to implement changes. When making use of feedback and iterative cycles software applications can be made to align witht the growing business requirements.
+
 ## Requirements analysis:
 
 ## Ethics analysis:
