@@ -231,12 +231,19 @@ Business processes needed for the success of your software development project (
 
 ### how I plan to show this learning outcome in my project: 
 
-## what is a stake holder?
+## stakeholders analysis:
+
+### what is a stake holder?
 A stakeholder can be an person, group or organization that's impacted by the outcome of a project or business venture. The most important thing for a stakeholder is the succes of the project. The reason stakeholders are important in the project is that they can either have a positive or negative influence on the project with their decisions. Because of these influences that the stakeholders has it's important to choose someone who is fitted for the job to bo the stakeholder.
 
-## Who are the stakeholders in my project and what are their goals and constraints? 
-For our project We have three stakeholders: Frank, Samuil and Meija. their goal is to keep watch over the project and make sure everything goes as planned. 
+### Who are the stakeholders in my project and what are their goals and constraints? 
+For our project We have three stakeholders: Frank, Samuil and Meija. their goal is to keep watch over the project and make sure everything goes as planned and the project ends in a succesfull way. to do this they look at the project together with engineers to make sure everything goes as planned and as was intended.
 
+## Process analysis:
+
+## Requirements analysis:
+
+## Ethics analysis:
 
 ## 8 Professional
 
