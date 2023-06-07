@@ -147,6 +147,7 @@ Clarification:
 Tooling and methodology: Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as well as applying static code analysis and code reviews.
 
 ### how I plan to show this learning outcome in my project: 
+to show that I have enough knowledge of this learning outcome I made a test plan of what I am going to test. 
 
 ## 3 Agile method
 
