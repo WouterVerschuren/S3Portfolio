@@ -149,6 +149,31 @@ Tooling and methodology: Carry out, monitor and report on unit integration, regr
 ### how I plan to show this learning outcome in my project: 
 to show that I have enough knowledge of this learning outcome I made a test plan of what I am going to test. 
 
+
+# Test Plan: Urban Explorer 
+### 1. User account managament
+### Objective: make sure that users can create and manage their accounts.
+### Test scenarios:
+Verify that a user can register for a new account with valid information.
+Verify that user registration fails with invalid or duplicate information.
+Verify that a user can log in with valid credentials.
+Verify that a user can’t log in with invalid credentials.
+
+### 2. Adding and managing places
+### Objective: make sure that a user can add places on the map, edit places information and delete places from the map.
+### Test scenarios:
+Verify that a logged-in user can add a new place with valid information.
+Verify that adding a place fails when required information is missing or invalid.
+Verify that a user can see all of the places they added.
+Verify that a user can edit the details of a place they added.
+Verify that a user can remove a place they added.
+Verify that a user can view all the places on the map.
+
+### 2. integration tests
+### Objective: make sure the flow between backend and frontend works as intended.
+### Test scenarios:
+
+
 ## 3 Agile method
 
 You choose and implement the most suitable agile software development method for your software project.
