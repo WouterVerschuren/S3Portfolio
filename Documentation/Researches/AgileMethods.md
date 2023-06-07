@@ -42,8 +42,16 @@ there are many agile methods you can use but the 4 most used ones are:
 Scrum is an agile method that has a lot of transparency and collaboration among team members, this allows frequent feedback and adaptability to changing requirements in short iterations called sprints. however it does requires strong commitment and discipline from team members and can be challenging to implement in large and complex projects. but because our group isn't that big scrum would be a good agile method to use for our project.
 
 ## Kanban:
-Kanban is an agile method that gives a visual representation of work in progress. this enables it to have a better workload balance. it also helps continuous delivery and faster response times.
-With Kanban you make use of a kanban board. A kanban board is an agile project management tool desgined to help visualize your work. it also helps visualize your limit work-in-progress and it maximizes your efficiency. A kanban board consist of cards, columns. Since the kanban board makes use of cards, where team members write all of there work items on, the kanban board is a very easy to read. You can easily see what is still left to do and what is done already. A card is usually a user story. Another thing that the kanban board has are columns. Each column you see on the kanban board represents a specific workflow. the cards flow thru this workflow until they are completed. a workflow can be something simple like "to do", "in progress", "complete" but they can also get more complicated.
+Kanban 
+With Kanban you make use of a kanban board. A kanban board is an agile project management tool desgined to help visualize your work. it also helps visualize your limit work-in-progress and it maximizes your efficiency. 
+
+
+A kanban board consist of cards and columns. Since the kanban board makes use of cards, where team members write all of there work items on, the kanban board is a very easy to read. You can easily see what is still left to do and what is done already. A card is usually a user story. Another thing that the kanban board has are columns. Each column you see on the kanban board represents a specific workflow. the cards flow thru this workflow until they are completed. a workflow can be something simple like "to do", "in progress", "complete" but they can also get more complicated. 
+
+another thing that the kanban board makes use of is work in progress limits (WIP limits). These limits are there to show the maximum number of cards in a column at any given time. so when a column has a WIP limit of 5. the column can only have 5 cards. when a column is full a team can focus on this column so that it they can add new cards to that flow. This will help the team members to find bottlenecks in there projects since you can see when you have to much work at once in the kanban board.
+
+kanban boards also consists of a commitment and delivery point. a commitment point is the  moments when a teams picks up one of the ideas from the backlog that's been added there by the team. The delivery moment is when the product is in the hand of the customer so basically when the product is done. A teams goal is to move cards from the commitment point to the delivery point as fast as possible. 
+
 
 ## Extreme Programming (XP):
 Extreme Programming is an agile method that use a lot of frequent communication and collaboration. extreme programming also puts customer satisfaction and focusing on delivering high-quality software through practices like pair programming and test-driven development first. however it requires a significant shift in team culture and this may cause it to be challenging to use in large projects or teams.
