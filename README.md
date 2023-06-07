@@ -218,6 +218,15 @@ Multiple types of test techniques: You apply user acceptance testing and stakeho
 
 ### how I plan to show this learning outcome in my project: 
 
+to show I have enough knowledge of this learning outcome you've have previously seen [some designs](#1-Web-application) I made for my individual project. 
+To test these user designs I created some simples user tests. 
+
+To test my designs I got a few users to look at them and give me advise and/or feedback. I made sure to use different groups of people to make sure my designs where as good as can be. 
+
+
+
+![Screenshot 2023-06-07 205314](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/4ac0877b-abcc-4be5-b5a7-1e76eca1930c)
+
 ## 7 Bussiness Process
 
 You analyze and describe simple business processes that are related to your project.
