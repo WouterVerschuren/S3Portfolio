@@ -150,7 +150,7 @@ Tooling and methodology: Carry out, monitor and report on unit integration, regr
 to show that I have enough knowledge of this learning outcome I made a test plan of what I am going to test. 
 
 
-# Test Plan: Urban Explorer 
+# Test Plan: 
 ### 1. User account managament
 ### Objective: make sure that users can create and manage their accounts.
 ### Test scenarios:
