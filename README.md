@@ -162,7 +162,11 @@ Choose: You are aware of the most popular agile methods and their underlying agi
 To show I have enough knowledge of this learning outcomes I made a [research paper](https://github.com/WouterVerschuren/S3Portfolio/blob/main/Documentation/Researches/AgileMethods.md) about what agile methods there are and which would work the best for me.
 
 ## group project:
-for a group project we choose to make use of the scrum agile method as this felt for us as the best method to use. As I worked with this group before in group projects, I knew that it was important for us to have a good planning and structure in the group. Scrum makes use of sprints that are about 3-4 weeks long and makes use of a scrum board where everyone can see what everyone is doing and see what is still left to do. this will give good structure to the group where needed. 
+
+###Scrum boards
+#### [Frontend](https://github.com/orgs/Fontys-OAMK-Beter/projects/3/views/1)) [backend]((https://github.com/orgs/Fontys-OAMK-Beter/projects/2))
+
+for a group project we choose to make use of the scrum agile method as this felt for us as the best method to use. As I worked with this group before in group projects, I knew that it was important for us to have a good planning and structure in the group. Scrum makes use of sprints that are about 3-4 weeks long and makes use of a scrum board where everyone can see what everyone is doing and see what is still left to do. this will give good structure to the group where needed. In the first few sprints we didn't fully implement the scrum processes, but we made continous improvements as well we gained more knowledge about how to use scrum so in later stages we began to make improvements. 
 
 since scrum is designed for unpredicatbale projects with its adaptability, flexibility and continuous improvemnt. it's also great for a group project as we work together with people finland it can sometimes be a little bit harder to communicate between choices and options. hence it can be usefull to use scrum for when unexpected decisions weren't as intended and cause problems. in this the adaptability of scrum will make it easier to fix the problems you have.
 
@@ -194,8 +198,6 @@ Take into account: Adapt your communication, working, and behavior styles to ref
 Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.  
 
 ### how I plan to show this learning outcome in my project: 
-
-
 
 ## What is culture?
 For me Culture is the beliefs, values and behvaiors someone has. people from the same culure usually connect on most of the same beliefs, values and behaviors as other people from the same culture. This gives culture the feeling of belonging. Cultures include traditions, languages, arts, sociol norms and knowledge. 
