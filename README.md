@@ -143,7 +143,7 @@ I also made sure to add some UX tests to my website to test how users would be a
 my brother told me that the designs looked good. He really liked the minimalistic look as it helped him navigate the pages easily and made everything clear. Although he also said:” the minimalistic part also makes it a little childish”. “but then again the grayish style makes that not that important”.
 Overall a good looking webapp and easy to navigate everything was easy to follow even tho I see it for the first time.
 
-###### Digital Illiterate (My mother):
+##### Digital Illiterate (My mother):
 My mother thought the designs looked good aswell allthough she did think that the grayish wasn't as nice to look at. she thought there wasn't enough color on the page. however she did think this also was usefull as it made sure the location points are easy to see on the map. this meant for her that the this design feauture was good enough for her.
 
 
@@ -160,7 +160,23 @@ to show that I have enough knowledge of this learning outcome I made a test plan
 
 
 # Test Plan: 
-### 1. User account managament
+### 1. UX test
+### objective: make sure that the designs of the site are easy to follow and are clear.
+### test scenarios:
+
+verify that the user is able to use everything on the site as intended. 
+
+verify that the User likes to designs and that they like the look.
+
+#### UX test:
+##### UrbanExplorer (my brother):
+my brother told me that the designs looked good. He really liked the minimalistic look as it helped him navigate the pages easily and made everything clear. Although he also said:” the minimalistic part also makes it a little childish”. “but then again the grayish style makes that not that important”.
+Overall a good looking webapp and easy to navigate everything was easy to follow even tho I see it for the first time.
+
+##### Digital Illiterate (My mother):
+My mother thought the designs looked good aswell allthough she did think that the grayish wasn't as nice to look at. she thought there wasn't enough color on the page. however she did think this also was usefull as it made sure the location points are easy to see on the map. this meant for her that the this design feauture was good enough for her.
+
+### 2. User account managament
 ### Objective: make sure that users can create and manage their accounts.
 ### Test scenarios:
 
@@ -172,7 +188,7 @@ Verify that a user can log in with valid credentials.
 
 Verify that a user can’t log in with invalid credentials.
 
-### 2. Adding and managing places
+### 3. Adding and managing places
 ### Objective: make sure that a user can add places on the map, edit places information and delete places from the map.
 ### Test scenarios:
 
@@ -188,7 +204,7 @@ Verify that a user can remove a place they added.
 
 Verify that a user can view all the places on the map.
 
-### 2. integration tests
+### 4. integration tests
 ### Objective: make sure the flow between backend and frontend works as intended.
 ### Test scenarios:
 
