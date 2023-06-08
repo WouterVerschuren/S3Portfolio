@@ -135,7 +135,16 @@ on the second page you'll be able to add your own location to the site. you'll b
 ![Screenshot 2023-04-12 103940](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/b4fe2e88-f799-4486-87b5-6e1d2faaa049)
 on the third page you'll be able to see places you added yourself to the map. you will also be able to delete or edit locations here. 
 
+### UX Test:
+I also made sure to add some UX tests to my website to test how users would be able to use it.
 
+#### Design test:
+##### UrbanExplorer (my brother):
+my brother told me that the designs looked good. He really liked the minimalistic look as it helped him navigate the pages easily and made everything clear. Although he also said:” the minimalistic part also makes it a little childish”. “but then again the grayish style makes that not that important”.
+Overall a good looking webapp and easy to navigate everything was easy to follow even tho I see it for the first time.
+
+###### Digital Illiterate (My mother):
+My mother thought the designs looked good aswell allthough she did think that the grayish wasn't as nice to look at. she thought there wasn't enough color on the page. however she did think this also was usefull as it made sure the location points are easy to see on the map. this meant for her that the this design feauture was good enough for her.
 
 
 ## 2 Software quality
