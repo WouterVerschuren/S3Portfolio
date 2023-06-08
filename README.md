@@ -124,13 +124,13 @@ To show I have enough knowledge of this learning outcome I made a frontend webap
 
 I started of with some designs. with these designs I show that I have knowledge of the design part of this learning outcome.
 
-I choice a very simple design with a minamalistic/clean look. 
+I choice a very simple design with a minamalistic/clean look. The reason I choice for this look is that urban explorers are usually people how are fairly young (around 17 to 30 year old). Since the most people around this age are fairly used to working on the internet the design will be very easy to follow for them. I also made sure to give the side a grayish tint. The reason I choice to do this is to is that urban exploring is for people how sometimes do sketchy/edgy things. to add to this vibe I made the site in a gray look. another reason for the simplistic design is that the webapp is pretty minimalistc it self as it doesn't have that many functionalities. so it doesn't need any fancy sidebar or things like that.
 ![Screenshot 2023-05-25 092850](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/76b26a15-1b85-4759-b9ad-4440650dd803)
 on the first page you'll see all the location's that have been added to the map. once you click on one of these location you'll see information about the location and a route on how to get there.
-location's that haven't been checked by a moderator will show on the map but will be a red color indicating that they haven't been checked and also won't show a route on how to get there. I do this so that when places are illegal to go to won't be trespast.
+location's that haven't been checked by a moderator will show on the map but will be a red color indicating that they haven't been checked and also won't show a route on how to get there. I do this so that when places are illegal to go to won't be trespast. the location that are checked will be displayed in a green color. I choice for bright colors so the points are easy seeable on the website.
 
 ![Screenshot 2023-05-25 092816](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/0b043c84-c056-487e-9274-aa9cc9602ec7)
-on the second page you'll be able to add your own location to the site. you'll be able to add a name, location, infomation (such as information about the place and the route to get there) and you can add images you took. 
+on the second page you'll be able to add your own location to the site. you'll be able to add a name, location, infomation (such as information about the place and the route to get there) and you can add images you took. again I choice for a simple look here as will be easy to navigate for the people using it.
 
 ![Screenshot 2023-04-12 103940](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/b4fe2e88-f799-4486-87b5-6e1d2faaa049)
 on the third page you'll be able to see places you added yourself to the map. you will also be able to delete or edit locations here. 
