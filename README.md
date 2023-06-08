@@ -208,6 +208,10 @@ Verify that a user can view all the places on the map.
 ### Objective: make sure the flow between backend and frontend works as intended.
 ### Test scenarios:
 
+verify that a crud operation can travel between the database backend and frontend.
+
+verify that the connection works between backend and frotend works as intended.
+
 
 ## 3 Agile method
 
