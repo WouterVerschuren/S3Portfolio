@@ -39,7 +39,28 @@ there are many agile methods you can use but the 4 most used ones are:
 ### since scrum and kanban are the most used agile methods I am goin in more depth with them.
 
 ## Scrum:
-Scrum is an agile method that has a lot of transparency and collaboration among team members, this allows frequent feedback and adaptability to changing requirements in short iterations called sprints. however it does requires strong commitment and discipline from team members and can be challenging to implement in large and complex projects. but because our group isn't that big scrum would be a good agile method to use for our project.
+3. Scrum
+Scrum is a popular Agile method and the one that I personally have the most experience with, as it is the recommended method within our study. since it is the most popular agile method to use. for our group project we choose to use scrum aswell.
+
+3.1. Scrum process
+the scrum process starts with the creating of user stories. Once you have created the user stories they will be put on a scrum board. Every user story on the scrum board will be asigned a number. This will number (story point) will represent the expected amount of effert that is required to complete this user story. this way you can easily see how much time you are currently having to spend to finish the project. in the beginning of the project you'll make a planning using these user stories. when creating th planning you can look at the number you've given a certain user story and this will tell you how much time it is expected to cost. these user stories will then be placed in the backlog.
+
+A Scrum project starts with formulating user stories. Once these have been formulated they are put in a product backlog and are assigned a number of story points—these represent the expected amount of effort required to complete the user story. At the start of a sprint a sprint planning is performed. During this session a number of user stories are selected to be worked on during the sprint and these user stories are then placed in the sprint backlog. During the sprint a daily scrum (sometimes referred to as a stand-up) is held each day at a set time and location. This is a time-boxed session (approximately 15 minutes), facilitated by an appointed Scrum master/leader, where team members report on their progress, any problems or issues encountered, and the task(s) they intend to work on during the course of the day. During the course of the sprint work is put into one or more increments. These are concrete steps towards the end goal of the project and must be usable, tested and work well together. At the end of a sprint a sprint review is held where the completed work gets presented to the stakeholders. This provides an opportunity for the development team to receive feedback, discuss impact of incomplete work and to receive suggestions for upcoming work from the stakeholders. This can also be a good moment to review the user stories in the product backlog and amend, update or re-order them if needed. The last part of a sprint is the sprint retrospective. During this session the team reflects on the past sprint(s): what went well and what could be improved in the next sprint. If a large number of points for improvement are found, a selection should be made based on what the team determines are the points with the highest priority. After this step the project is either finished or enters the cycle anew and starts with a new sprint.
+
+Diagram about Scrum process
+Steps of the Scrum process. Source: Scrum.org
+
+3.2. Extensions to Scrum
+There are also several additional techniques that can be used to augment the Scrum process:
+
+Burndown chart: a chart showing the remaining work in a sprint (usually in the form of total story points) against the time available in a sprint. It includes an ideal progress line sloping down from the start of the sprint to the end and the team can use this to help them remain on schedule by updating it each day and comparing actual and predicted progress.
+Definition of done: Clear definition for when a user story can be considered finished. May include rules relating to unit/integration/regression testing, security requirements/checks, and requirements for proper documentation and code review.
+Spike: a time-boxed period used to research a new concept/technology, create a proof of concept, or a prototype. A spike may or may not produce a tangible outcome. It ends when the time has expired, not necessarily when the objective has been achieved.
+3.3. Scrum values
+Also part of the Scrum method are a set of five core values: courage, focus, commitment, respect and openness. Commitment to these values by each member of the team is considered important for the successful use of Scrum. Together they help building trust and support the empirical Scrum pillars of transparency, inspection, and adaptation.
+
+Diagram about Scrum values
+The five Scrum values. Source: Scrum.org
 
 ## Kanban:
 Kanban 
