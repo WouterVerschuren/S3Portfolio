@@ -42,7 +42,7 @@ there are many agile methods you can use but the 4 most used ones are:
 Scrum
 Scrum is a popular Agile method and the one that I personally have the most experience with, as it is the recommended method within our study. since it is the most popular agile method to use. for our group project we choose to use scrum aswell.
 
-the scrum process.
+### the scrum process.
 the scrum process starts with the creating of user stories. Once you have created the user stories they will be put on a scrum board. Every user story on the scrum board will be asigned a number. This will number (story point) will represent the expected amount of effert that is required to complete this user story. this way you can easily see how much time you are currently having to spend to finish the project. in the beginning of the project you'll make a planning using these user stories. when creating th planning you can look at the number you've given a certain user story and this will tell you how much time it is expected to cost. these user stories will then be placed in the backlog. Every morning you work on the project there will be a stand-up, this will be at a set location and time. in this stand-up session, which is usually around 15 minutes, you'll discuss the progress and or problems they made since the previous workday.
 they will also discuss the task they are gonna be working on that day. 
 
@@ -64,7 +64,8 @@ another thing that the kanban board makes use of is work in progress limits (WIP
 
 kanban boards also consists of a commitment and delivery point. a commitment point is the  moments when a teams picks up one of the ideas from the backlog that's been added there by the team. The delivery moment is when the product is in the hand of the customer so basically when the product is done. A teams goal is to move cards from the commitment point to the delivery point as fast as possible. 
 
-kanban board
+### kanban board
+
 ![480px-Sample_Kanban_Board](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/772148c7-e053-4bcd-9748-c56730e740f0)
 
 
