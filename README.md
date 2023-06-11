@@ -227,8 +227,10 @@ To show I have enough knowledge of this learning outcomes I made a [research pap
 
 ## group project:
 
-### Scrum boards
-#### [Frontend](https://github.com/orgs/Fontys-OAMK-Beter/projects/3/views/1) [backend](https://github.com/orgs/Fontys-OAMK-Beter/projects/2)
+### Scrum boards:
+#### [Frontend](https://github.com/orgs/Fontys-OAMK-Beter/projects/3/views/1) - [backend](https://github.com/orgs/Fontys-OAMK-Beter/projects/2)
+
+
 
 for a group project we choose to make use of the scrum agile method as this felt for us as the best method to use. As I worked with this group before in group projects, I knew that it was important for us to have a good planning and structure in the group. Scrum makes use of sprints that are about 3-4 weeks long and makes use of a scrum board where everyone can see what everyone is doing and see what is still left to do. this will give good structure to the group where needed. In the first few sprints we didn't fully implement the scrum processes, but we made continous improvements as well we gained more knowledge about how to use scrum so in later stages we began to make improvements. 
 
