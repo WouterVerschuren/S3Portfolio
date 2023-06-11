@@ -225,6 +225,29 @@ Choose: You are aware of the most popular agile methods and their underlying agi
 
 To show I have enough knowledge of this learning outcomes I made a [research paper](https://github.com/WouterVerschuren/S3Portfolio/blob/main/Documentation/Researches/AgileMethods.md) about what agile methods there are and which would work the best for me.
 
+Scrum:
+Scrum Scrum is a popular Agile method and the one that I personally have the most experience with, as it is the recommended method within our study. since it is the most popular agile method to use. for our group project we choose to use scrum aswell.
+
+the scrum process.
+the scrum process starts with the creating of user stories. Once you have created the user stories they will be put on a scrum board. Every user story on the scrum board will be asigned a number. This will number (story point) will represent the expected amount of effert that is required to complete this user story. this way you can easily see how much time you are currently having to spend to finish the project. in the beginning of the project you'll make a planning using these user stories. when creating th planning you can look at the number you've given a certain user story and this will tell you how much time it is expected to cost. these user stories will then be placed in the backlog. Every morning you work on the project there will be a stand-up, this will be at a set location and time. in this stand-up session, which is usually around 15 minutes, you'll discuss the progress and or problems they made since the previous workday. they will also discuss the task they are gonna be working on that day.
+
+during the duration of the project the workload will be distrubuted in sprints. Each sprint will be a step towards the end goal/product of the project. they should be able to be tested, usable and work together as a product. During the ending of each sprint there will be a presentation in which the engineers will show there work to the product owner as they review it and give there feedback. It will also help discuss any misunderstandings or problems with the project. after this presenatation the team will come together to do a retrospective. In this retrospective the team will discuss what went right, what went wrong, what they could have added and what they can add for next time. with this feedback they will start the next sprint until the last sprint when they will have a final presentation.
+
+![blog-scrum-process-opt (1)](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/05c804b4-789b-4b8f-b1d7-c86590ef69ba)
+
+
+Kanban:
+Kanban With Kanban you make use of a kanban board. A kanban board is an agile project management tool desgined to help visualize your work. it also helps visualize your limit work-in-progress and it maximizes your efficiency.
+
+A kanban board consist of cards and columns. Since the kanban board makes use of cards, where team members write all of there work items on, the kanban board is a very easy to read. You can easily see what is still left to do and what is done already. A card is usually a user story. Another thing that the kanban board has are columns. Each column you see on the kanban board represents a specific workflow. the cards flow thru this workflow until they are completed. a workflow can be something simple like "to do", "in progress", "complete" but they can also get more complicated.
+
+another thing that the kanban board makes use of is work in progress limits (WIP limits). These limits are there to show the maximum number of cards in a column at any given time. so when a column has a WIP limit of 5. the column can only have 5 cards. when a column is full a team can focus on this column so that it they can add new cards to that flow. This will help the team members to find bottlenecks in there projects since you can see when you have to much work at once in the kanban board.
+
+kanban boards also consists of a commitment and delivery point. a commitment point is the moments when a teams picks up one of the ideas from the backlog that's been added there by the team. The delivery moment is when the product is in the hand of the customer so basically when the product is done. A teams goal is to move cards from the commitment point to the delivery point as fast as possible.
+
+kanban board
+![480px-Sample_Kanban_Board](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/7e49e2af-de5a-4b39-9e44-2e596320672f)
+
 ## group project:
 
 ### Scrum boards:
