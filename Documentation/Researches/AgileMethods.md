@@ -64,6 +64,9 @@ another thing that the kanban board makes use of is work in progress limits (WIP
 
 kanban boards also consists of a commitment and delivery point. a commitment point is the  moments when a teams picks up one of the ideas from the backlog that's been added there by the team. The delivery moment is when the product is in the hand of the customer so basically when the product is done. A teams goal is to move cards from the commitment point to the delivery point as fast as possible. 
 
+kanban board
+![480px-Sample_Kanban_Board](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/772148c7-e053-4bcd-9748-c56730e740f0)
+
 
 ## Extreme Programming (XP):
 Extreme Programming is an agile method that use a lot of frequent communication and collaboration. extreme programming also puts customer satisfaction and focusing on delivering high-quality software through practices like pair programming and test-driven development first. however it requires a significant shift in team culture and this may cause it to be challenging to use in large projects or teams.
