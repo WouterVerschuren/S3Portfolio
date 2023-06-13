@@ -353,9 +353,92 @@ BPM (Business Process management) relates with software in multiple ways:
 
 - Continuous Improvement: A business evolves and gets bigger over time. to support this contious growing and evolvement, software applicatoin can help by prividing flexibility, scalability and the ability to implement changes. When making use of feedback and iterative cycles software applications can be made to align witht the growing business requirements.
 
-## Requirements analysis:
+### My Process Analysis:
 
-## Ethics analysis:
+Introduction 
+since I don't really have a business process in my individueel project or in my group project. I made my own business process 
+
+
+The purpose of this document is to outline the business process for WhereToBinge, a software project that helps users find information about movies and series and discover the streaming platforms where they are available. This document provides an overview of the existing business process, the analysis and improvements, the new process with data and role aspects, the roles involved, the steps supported/automated by the software, and a technical overview of the project. It concludes by highlighting the benefits and improvements brought by WhereToBinge and mentioning future considerations. 
+
+Understanding the Existing Business Process 
+
+The existing process involves users searching for information about the availability of movies and series in different countries. This process relies on random Reddit posts for obtaining this information. The data used in this process includes movie and series titles, while the roles involved are primarily the users performing the search. The existing process can be visualized as follows: 
+
+Visualisation of the process using a diagram, including information aspects: 
+ 
+ 
+
+In this diagram, the rectangle represents activities or steps in the process, the diamond represents decision points or alternative paths, and the ovals represent the roles involved. 
+
+The User (Searcher) role initiates the process by providing the movie or series title. 
+
+The Search activity involves searching for availability information, which currently relies on random Reddit posts. 
+
+The Availability Data represents the data aspect, which includes the availability information obtained from the random Reddit posts. 
+
+Finally, the User (Searcher) role receives and views the availability information. 
+
+Please note that this is a simplified representation, and you can customize the diagram to fit your specific context. 
+
+ 
+ 
+
+Analysis and Improvements 
+
+Upon analysing the existing process, it was concluded that the reliance on random Reddit posts was inefficient and unreliable. To address these issues, the WhereToBinge application was developed. 
+
+The software automates the task of checking the availability of movies and series in different countries, eliminating the need for manual searches. This facilitates the process of finding this information and ensures its accuracy. 
+
+The New Process with Data and Role Aspects 
+
+The new process supported by WhereToBinge involves users inputting movie or series titles into the application. The software then automatically checks the availability of the content in various countries and provides the users with the relevant information. This new process improves efficiency, accuracy, and convenience for users. The data aspects now include movie/series titles and availability information in different countries. The roles involved remain primarily the users who initiate the search. 
+
+Visualize the new process using a diagram, highlighting the data and role aspects. 
+
+Roles Involved in the Process 
+
+The primary role involved in the process is the user. Users interact with the WhereToBinge application by inputting movie or series titles and accessing the availability information provided. 
+
+The introduction of the software influences the work of users by reducing the time and effort required to obtain the desired information. Users can now rely on the application instead of searching for random Reddit posts. 
+
+Steps Supported/Automated by the Software 
+
+The steps supported and automated by the WhereToBinge software include: 
+
+User inputs movie or series title into the application. 
+
+The software automatically checks the availability of the content in different countries. 
+
+The application presents the availability information to the user. These steps are seamlessly supported and automated by the software, ensuring a streamlined user experience. 
+
+ 
+
+Visualize the supported/automated steps in the new process diagram. 
+ 
+ 
+
+In this diagram, the modified parts are: 
+
+The rectangle labeled "WhereToBinge Application" represents the software application that automates the availability check process. 
+
+The Availability Data aspect is expanded to include movie/TV titles and countries. 
+
+The User (Searcher) role remains the same, initiating the process and receiving the availability information. 
+
+This updated diagram reflects the new process flow, where the application takes over the task of checking availability and providing the users with the relevant information. 
+
+ 
+
+Technical Overview 
+
+WhereToBinge consists of a frontend developed using React and hosted on Vercel. The frontend provides a user-friendly interface for users to input movie or series titles and receive availability information. The backend is a web API built using C# and hosted on Azure. The backend utilizes Entity Framework to access the MSSQL database hosted on Azure, where availability information for different countries is stored. This technical architecture ensures efficient data retrieval and storage, enabling quick and accurate responses to user queries. 
+
+Conclusion 
+
+In conclusion, WhereToBinge automates and facilitates the process of checking the availability of movies and series in different countries, replacing the reliance on random Reddit posts. The software improves efficiency, accuracy, and convenience for users, streamlining the search for availability information. By introducing WhereToBinge, users can now rely on a reliable and efficient application, reducing their reliance on manual searches. Future considerations may include expanding the platform to include additional streaming platforms or incorporating user feedback to enhance the application further. 
+
+ 
 
 ## 8 Professional
 
