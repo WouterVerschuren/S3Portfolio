@@ -1,13 +1,15 @@
-Business process analysis:
+# Business process analysis:
 
-Introduction:
+### Introduction:
 In this document I am going to look at the business process of my own webapp. In my project users will be able to share locations of cool buildings/places they found online. Users will be able to see all the information needed to find this location in real life. I am going to provide the reader with an overview of the existing business process, the analysis and improvements, the new process with data and role aspects, the roles involved, the steps supported/automated by the software, and a technical overview of the project. It concludes by highlighting the benefits and improvements that will be added with the creation of the Urban Explorer webapp. 
 
-The current business process:
+### The current business process:
+
 Currently the process involves a user having to search for all the information themselves to search the locations they are looking for. This will take a lot of time and isn’t efficient for the users as this process relies on the user to look all around the internet to find these places. They can look at places like reddit or Facebook where people might share these places, but this isn’t one place where they all are. Also, it wouldn’t be very clear for users where these places are and the information about them.
 
-Existing business process:
+### Existing business process:
  
+![Screenshot 2023-06-14 132521](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/7fae5901-2ea7-4a8e-863b-8df27fc3d46a)
 
 As you can see in this diagram, you’ll see the business process visualized. In the Diagram all the activities are represented by a rectangle. The diamond will indicate the decision points and/or the alternative paths. The ovals will be represented by the roles that are involved in the process.
 
