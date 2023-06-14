@@ -213,6 +213,22 @@ verify that a crud operation can travel between the database backend and fronten
 verify that the connection works between backend and frotend works as intended.
 
 
+### the types of test I am gonna use with my test plan are: 
+### 1. Unit tests
+
+Unit tests are very low level and close to the source of an application. They consist in testing individual methods and functions of the classes, components, or modules used by your software. Unit tests are generally quite cheap to automate and can run very quickly by a continuous integration server.
+
+### 2. Integration tests 
+
+Integration tests verify that different modules or services used by your application work well together. For example, it can be testing the interaction with the database or making sure that microservices work together as expected. These types of tests are more expensive to run as they require multiple parts of the application to be up and running.
+
+### 7. Smoke testing
+
+Smoke tests are basic tests that check the basic functionality of an application. They are meant to be quick to execute, and their goal is to give you the assurance that the major features of your system are working as expected.
+
+Smoke tests can be useful right after a new build is made to decide whether or not you can run more expensive tests, or right after a deployment to make sure that they application is running properly in the newly deployed environment.
+
+
 ## 3 Agile method
 
 You choose and implement the most suitable agile software development method for your software project.
