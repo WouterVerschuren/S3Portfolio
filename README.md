@@ -334,7 +334,20 @@ To test my designs I got a few users to look at them and give me advise and/or f
 
 ![Screenshot 2023-06-07 205314](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/4ac0877b-abcc-4be5-b5a7-1e76eca1930c)
 
+I also made User stories both for my individual project and group project. for my individual project I only put the user stories in a board to see what I have left to do. but for my group project we also performed scrum on it.
+
+group project user stories:
+
+![Screenshot 2023-06-14 122835](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/29648074-e73d-4df1-adcc-a7850a4d6fbd)
+
+
+individual user stories:
+
+![Screenshot 2023-06-14 123120](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/0e9bb2b4-c22e-4ead-82e3-b3076f3e9803)
+
 ## 7 Bussiness Process
+
+
 
 You analyze and describe simple business processes that are related to your project.
 
