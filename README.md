@@ -409,10 +409,6 @@ BPM (Business Process management) relates with software in multiple ways:
 
 - Continuous Improvement: A business evolves and gets bigger over time. to support this contious growing and evolvement, software applicatoin can help by prividing flexibility, scalability and the ability to implement changes. When making use of feedback and iterative cycles software applications can be made to align witht the growing business requirements.
 
-### My Process Analysis:
-
-Introduction 
-since I don't really have a business process in my individueel project or in my group project. I made my own business process 
 
 
 
