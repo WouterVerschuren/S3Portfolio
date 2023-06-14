@@ -9,7 +9,7 @@ Currently the process involves a user having to search for all the information t
 
 ### Existing business process:
  
-![Screenshot 2023-06-14 132521](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/7fae5901-2ea7-4a8e-863b-8df27fc3d46a)
+![Screenshot 2023-06-14 165825](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/2682c315-b895-4be4-8976-4ac1a233110b)
 
 As you can see in this diagram, you’ll see the business process visualized. In the Diagram all the activities are represented by a rectangle. The diamond will indicate the decision points and/or the alternative paths. The ovals will be represented by the roles that are involved in the process.
 
