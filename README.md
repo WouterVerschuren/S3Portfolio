@@ -395,6 +395,8 @@ For our project We have three stakeholders: Frank, Samuil and Meija. their goal 
 
 ## Process analysis:
 
+you'll find my business process [here](https://github.com/WouterVerschuren/S3Portfolio/blob/main/Business%20process%20analysis.md)
+
 ### What is a business process? 
 A business process is an activity or multiple activities that accomplish a specific organized goal. The goal of a business process is to produce a consistent outcome and to be as specific as possible to do this. a bussiness project should have a purposeful goal.
 
