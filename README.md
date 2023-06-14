@@ -283,12 +283,18 @@ since scrum is designed for unpredicatbale projects with its adaptability, flexi
 
 You design and implement a (semi)automated software release process that matches the needs of the project context.
 
+
 Clarification:
 
 Design and implement: You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
 
 ### how I plan to show this learning outcome in my project: 
-To show I have enough knowledge of CI/CD I am hosting my frontend and back end in azure. 
+
+To show I have enough knowledge of CI/CD I am hosting my frontend and back end in azure. I created a pipeline that deploys both applications using a github action. I also added CI to this pipelin so that I use continues integration. I made sure that in this pipeline all my test are getting called aswell. once a test fails the project won't be able to deploy and when all tests are past without errors then it will deploy. This will help show if there are any errors in my project.
+
+my pipeline:
+
+![Screenshot 2023-06-14 123845](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/92b685ae-627f-4e48-b9bf-9cbf9cba4575)
 
 ## 5 Cultural differences and ethics
 
@@ -334,7 +340,7 @@ To test my designs I got a few users to look at them and give me advise and/or f
 
 ![Screenshot 2023-06-07 205314](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/4ac0877b-abcc-4be5-b5a7-1e76eca1930c)
 
-I also made User stories both for my individual project and group project. for my individual project I only put the user stories in a board to see what I have left to do. but for my group project we also performed scrum on it.
+I also made User stories both for my individual project and group project. for my individual project I only put the user stories in a board to see what I have left to do. but for my group project we also performed scrum on it. this user stories helped me to see what I had left to do and see what I had finished.
 
 group project user stories:
 
