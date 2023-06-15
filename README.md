@@ -73,18 +73,19 @@ on the third page you'll be able to see places you added yourself to the map. yo
 
 #### the Three most commonly used usability testing methods are:
 
-- Heuristic Evaluation: 
-Usability experts evaluate a product's interface against established usability principles or heuristics to identify potential issues or violations. This method is efficient and cost-effective, providing a list of usability problems that need to be addressed.
+- Heuristic Evaluation:
+with this method you evaluate a product's interface aginst it's usability principles. this method helps to look if there are any potential issues or violations in the product interfacce. this method of a usability test is very effiecient as it provides a list of problems that need to be changed or looked at.
 
-- User Interviews: Direct interactions with individual users to gather feedback, understand their needs, expectations, and challenges. User interviews provide qualitative data, uncover user preferences, and reveal insights that may not be apparent through other evaluation methods.
+- User Interviews:
+with this method you have a direct interation with the individual user to gather their needs, feedback, expectations and challenges. this will help provide data on what the users want and expect and this can be usefull on making design and interface choices. this method is also very effiecient as it both helps gather feedback from the user and also help to find problems or other small things that need to be adressed.
 
-- Thinking Aloud: Participants verbalize their thoughts and actions while using a product, enabling usability testers to observe how users navigate interfaces, identify obstacles, and understand their decision-making processes. Thinking aloud helps uncover usability issues related to navigation, terminology, and user flow.
+- Thinking Aloud:
+with this method you let the user verbalize their thoughts and actions while using the product interface. this enables you to see how users navigate the website. you can see when they incounter obstales and you can see when their decisions. this will help show the process of using your site and thus help you smooth this process to the users  needs.
 
-These methods help evaluate user experience and improve product design. Other popular techniques include prototype testing, eye-tracking studies, and A/B testing. The choice of method depends on project goals, available resources, and target audience.
 
-I also made sure to add some UX tests to my website to test how users would be able to use it.
+I decided for my own usability test to use a mix of the user interview and the thinking aloud usability test. as these give in my opinion the best results when it comes to feedback, problems, user expectations and more usefull data.
 
-#### Design test:
+#### UX:
 ##### UrbanExplorer (my brother):
 my brother told me that the designs looked good. He really liked the minimalistic look as it helped him navigate the pages easily and made everything clear. Although he also said:” the minimalistic part also makes it a little childish”. “but then again the grayish style makes that not that important”.
 Overall a good looking webapp and easy to navigate everything was easy to follow even tho I see it for the first time.
