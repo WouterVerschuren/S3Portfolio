@@ -32,11 +32,13 @@ Oauth is a commonly used structure for authorizing actors for an application or 
 ### keycloak
 Keycloak is an open-source Identity and Access Management solution for modern applications and services. It provides easy security integration with minimal coding. Key features include Single Sign-On, Identity Brokering with social login support, an Admin Console for centralized management, and support for standard protocols like OpenID Connect, OAuth 2.0, and SAML. Keycloak is highly versatile and can be used in various projects to establish robust security services.
 
+Source: [DZone](https://dzone.com/articles/what-is-keycloak-and-when-it-may-help-you)
+
 ![keycloak-1](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/11830cdb-4791-45b0-a2d7-3e063769219f)
 
 
 
-Source: [DZone](https://dzone.com/articles/what-is-keycloak-and-when-it-may-help-you)
+
 
 
 
@@ -53,5 +55,9 @@ authenthication is usefull way to keep your website safe from unwanted users. it
 
 
 Sources: 
-Source: [TechTarget](https://www.techtarget.com/searchsecurity/definition/authentication)
-Source: [Wikipedia Authenticatie](https://nl.wikipedia.org/wiki/Authenticatie)
+- [TechTarget](https://www.techtarget.com/searchsecurity/definition/authentication)
+- [Wikipedia Authenticatie](https://nl.wikipedia.org/wiki/Authenticatie)
+- [Wikipedia OAuth](https://en.wikipedia.org/wiki/OAuth)
+- [DZone](https://dzone.com/articles/what-is-keycloak-and-when-it-may-help-you)
+- [OneLogin](https://www.onelogin.com/learn/authentication-vs-authorization#:~:text=Authentication%20and%20authorization%20are%20two,authorization%20determines%20their%20access%20rights.)
+
