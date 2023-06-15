@@ -26,73 +26,6 @@ This folder contains both the Learning outcomes for the Group Project and the le
 ## Project
 This folder contains all the project information. It consists of all the code and other information. 
 
-# To do:
-
-## Learning Outcome 1: Web Application (IP)(#learning-outcome-1-web-application-ip)
-*You design and build **user-friendly**, **full-stack** web applications.*
-- [x] project Structure
-- [ ] project ORM
-- [ ] project Frontend
-- [ ] project backend
-- [ ] project (final finished)
-
-
-## Learning Outcome 1: Web Application (GP)(#learning-outcome-1-web-application-gp)
-*You design and build **user-friendly**, **full-stack** web applications.*
-- [X] GroopySwoopy Back end 
-- [ ] GroopySwoopy Front end
-
-## Learning Outcome 2: Software Quality(#learning-outcome-2-software-quality)
-*You use software **tooling and methodology** that continuously monitors and improve the software quality during software development.*
-- [ ] testen (https://fhict.instructure.com/courses/12992/pages/testing-what-when-and-where?module_item_id=911581)
-- [ ] code quality (IP)
-- [ ] code quality (GP)
-- [ ] automated code scanning tool (IP)
-
-## Learning Outcome 3: Agile Method(#learning-outcome-3-agile-method)
-*You can implement the software process for your project according to a given agile software development method.*
-- [x] Research Scrum
-- [ ] Research waterfall
-- [ ] Research Kanban
-- [ ] Researchpaper on agile
-
-## Learning Outcome 4: CI/CD(#learning-outcome-4-cicd)
-*You **design and implement** a (semi)automated software release process that matches the needs of the project context.*
-- [x] ReseaRch CI (https://fhict.instructure.com/courses/12992/pages/continuous-integration?module_item_id=911586)
-- [x] Research CD
-- [ ] Setting up CI
-- [x] setting up CD
-- [x] CI/CD (GP) (partial)
-
-## Learning Outcome 5: Cultural Differences and Ethics(#learning-outcome-5-cultural-differences-and-ethics)
-*You **recognize** and **take into account** cultural differences when working with multi-site teams and are aware of ethical aspects in software development.*
-- [ ] Research paper 
-- [x] group management
-- [ ] software ethics 
-
-
-## Learning Outcome 6: Design (GP + IP)(#learning-outcome-6-requirements)
-*You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using **multiple types of test techniques**.*
-- [x] Research on basics
-- [ ] design (working on it)
-- [ ] testing
-
-## Learning Outcome 7: Business processes(#learning-outcome-7-business-processes)
-*You can explain **simple** business processes and **relate** them to the development of your software project.*
-- [ ] analyzing and modeling an exisitng business process in project
-- [ ] analyzing process and improving on conclusions
-- [ ] modeled new process and improved involment of roles in project
- 
-## Learning Outcome 8: Professional (IP)(#learning-outcome-8-professional-ip)(#learning-outcome-8-professional-ip)
-*You act in a **professional manner** during software development and learning.*
-- [ ] 
-- [ ] 
-- [ ] 
-
-## Learning Outcome 8: Professional (GP)(#learning-outcome-8-professional-gp)(#learning-outcome-8-professional-gp)
-*You act in a **professional manner** during software development and learning.*
-- [x] Team Communication
-- [ ] Communication with the Stakeholders
 
 ## Learning Outcomes:
 
@@ -136,6 +69,19 @@ on the second page you'll be able to add your own location to the site. you'll b
 on the third page you'll be able to see places you added yourself to the map. you will also be able to delete or edit locations here. 
 
 ### UX Test:
+
+
+#### the Three most commonly used usability testing methods are:
+
+- Heuristic Evaluation: 
+Usability experts evaluate a product's interface against established usability principles or heuristics to identify potential issues or violations. This method is efficient and cost-effective, providing a list of usability problems that need to be addressed.
+
+- User Interviews: Direct interactions with individual users to gather feedback, understand their needs, expectations, and challenges. User interviews provide qualitative data, uncover user preferences, and reveal insights that may not be apparent through other evaluation methods.
+
+- Thinking Aloud: Participants verbalize their thoughts and actions while using a product, enabling usability testers to observe how users navigate interfaces, identify obstacles, and understand their decision-making processes. Thinking aloud helps uncover usability issues related to navigation, terminology, and user flow.
+
+These methods help evaluate user experience and improve product design. Other popular techniques include prototype testing, eye-tracking studies, and A/B testing. The choice of method depends on project goals, available resources, and target audience.
+
 I also made sure to add some UX tests to my website to test how users would be able to use it.
 
 #### Design test:
