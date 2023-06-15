@@ -27,38 +27,31 @@ Source: [Wikipedia OAuth](https://en.wikipedia.org/wiki/OAuth)
 
 Oauth is a commonly used structure for authorizing actors for an application or website. This autoresis makes it possible for the actors to access certain data from another app. The basic app provides the credentials (username and password of the actor) to the authentication service, which will then verify it. If these are correct, the actor receives a token that serves as a key for the other applications in order to access the correct data. The actual access is called the authorization process. This token is valid for a certain time and will therefore have to be replaced once. However, this depends on the application.
 
+![download](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/63c5d4c5-72b9-4629-ac4d-7abe84ba906f)
 
-### Wat is het verschil tussen authenticatie en autorisatie
+### keycloak
+Keycloak is an open-source Identity and Access Management solution for modern applications and services. It provides easy security integration with minimal coding. Key features include Single Sign-On, Identity Brokering with social login support, an Admin Console for centralized management, and support for standard protocols like OpenID Connect, OAuth 2.0, and SAML. Keycloak is highly versatile and can be used in various projects to establish robust security services.
+
+![keycloak-1](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/11830cdb-4791-45b0-a2d7-3e063769219f)
+
+
+
+Source: [DZone](https://dzone.com/articles/what-is-keycloak-and-when-it-may-help-you)
+
+
+
+### what is the difference between authentication and authorization?
 
 Authentication and authorization are two terms often used together, but they carry distinct meanings. Authentication involves verifying whether a user is genuine and possesses the necessary rights to access a system. It entails validating unique information known only to the user, such as passwords or biometrics. On the other hand, authorization assumes that the user's identity has already been established. It primarily focuses on determining the specific data that the user is allowed or not allowed to see. While these two concepts are interconnected and reliant on each other, it's essential to differentiate between them due to their divergent purposes.
 
 Source: [OneLogin](https://www.onelogin.com/learn/authentication-vs-authorization#:~:text=Authentication%20and%20authorization%20are%20two,authorization%20determines%20their%20access%20rights.)
 
+conclusion:
+authenthication is usefull way to keep your website safe from unwanted users. it is also a great way to add roles onto your site as it eaisly allows for a user to be an admin and keep other users as normal users. to use authentication on my website I am planning on making use of 0auth as it is the most used authentication system for webapps. 0auth makes the authentication process really simple and reliable and helps you safe and request your specific data from the database.
 
-### keycloak
-Keycloak is an open-source Identity and Access Management solution for modern applications and services. It provides easy security integration with minimal coding. Key features include Single Sign-On, Identity Brokering with social login support, an Admin Console for centralized management, and support for standard protocols like OpenID Connect, OAuth 2.0, and SAML. Keycloak is highly versatile and can be used in various projects to establish robust security services.
 
-Source: Keycloak About.
 
-Gebruikte strategie: Wat is keycloak
-library
 
-Hoe gebruik ik Keycloak op mijn applicatie
-Om een authenticatie systeem op mijn applicatie te krijgen. Heb ik gebruik gemaakt van keycloak.
-
-Om te beginnen moeten we zorgen dat we een keycloak server hebben. Deze kun je downloaden van de keycloak download pagina Voor mijn project heb ik gekozen voor de Distribution powered by WildFly versie. Na het unzippen van de server kunnen we hem starten door het open van de batch file genaamd standalone.sh.
-Wanneer deze versie gestart is kunnen we naar het admin pannel gaan welke default gestart wordt op localhost:8080. Bij de eerste keer moet je eerst een admin account aanmaken.
-KeycloakCreateAdmin
-Bron: Keycloak Getting Started
-
-Gebruikte strategie: Hoe gebruik ik Keycloak op mijn applicatie
-workshop
-
-Prototyping
-Bronnen
-Wikipedia Authenticatie
-Wikipedia OAuth
-Strephonsays
-Keycloak About
-Keycloak Getting Started
-Medium, Secure react with Keycloak
+Sources: 
+Source: [TechTarget](https://www.techtarget.com/searchsecurity/definition/authentication)
+Source: [Wikipedia Authenticatie](https://nl.wikipedia.org/wiki/Authenticatie)
