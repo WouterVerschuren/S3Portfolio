@@ -48,7 +48,8 @@ Authentication and authorization are two terms often used together, but they car
 
 Source: [OneLogin](https://www.onelogin.com/learn/authentication-vs-authorization#:~:text=Authentication%20and%20authorization%20are%20two,authorization%20determines%20their%20access%20rights.)
 
-conclusion:
+### conclusion:
+
 authenthication is usefull way to keep your website safe from unwanted users. it is also a great way to add roles onto your site as it eaisly allows for a user to be an admin and keep other users as normal users. to use authentication on my website I am planning on making use of 0auth as it is the most used authentication system for webapps. 0auth makes the authentication process really simple and reliable and helps you safe and request your specific data from the database.
 
 
