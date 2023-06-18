@@ -5,7 +5,7 @@
 - Learning Outcomes](#Learning-Outcomes)
   - [1 Web Application](#1-Web-application)
     
-      - [1.2 Designs](#Designs:)
+      - [1.2 Designs](#Designs)
   - [3.2 Software Quality](#2-Software-quality)
   - [3.3 Agile Method](#3-Agile-method)
   - [3.4 CI/CD](#4-CI/CD)
@@ -57,7 +57,7 @@ Full-stack: You design and build a full stack application using a commonly accep
 To show I have enough knowledge of this learning outcome I made a frontend webapp using javascript. To know which javascript framework I am going to be using for my frontend I have made a [Research Paper](https://github.com/WouterVerschuren/S3Portfolio/blob/main/Documentation/Researches/Javascript%20Framework.md) on which javascript framework would be the best for me and my project. For my backend I made a WepAPI using asp.net C#. My database is being hosted on azure. 
 
 
-#### Designs:
+#### Designs
 
 I started of with some designs. with these designs I show that I have knowledge of the design part of this learning outcome.
 
