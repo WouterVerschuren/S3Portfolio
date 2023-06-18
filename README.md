@@ -91,13 +91,16 @@ with this method you let the user verbalize their thoughts and actions while usi
 
 I decided for my own usability test to use a mix of the user interview and the thinking aloud usability test. as these give in my opinion the best results when it comes to feedback, problems, user expectations and more usefull data.
 
-#### UX Tests:
+#### UX Tests Design:
 ##### UrbanExplorer (my brother):
 my brother told me that the designs looked good. He really liked the minimalistic look as it helped him navigate the pages easily and made everything clear. Although he also said:” the minimalistic part also makes it a little childish”. “but then again the grayish style makes that not that important”.
 Overall a good looking webapp and easy to navigate everything was easy to follow even tho I see it for the first time.
 
 ##### Digital Illiterate (My mother):
 My mother thought the designs looked good aswell allthough she did think that the grayish wasn't as nice to look at. she thought there wasn't enough color on the page. however she did think this also was usefull as it made sure the location points are easy to see on the map. this meant for her that the this design feauture was good enough for her.
+
+#### Website User Test:
+since my brother is in the catogory of the users that would use my website I let him test the mock version of my website. since the website is currently in a pretty minimalic stage there isn't that much funcationality. I did however get some valuable feedback from him. currently in the Add location page it isn't very clear when you added a location to the map as it doesn't show any confirmation for creating a location. with this feeback I made sure to add a confirmation pop up so that the user can see wether a location has been created succesfully or not.
 
 
 ## 2 Software quality
