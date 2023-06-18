@@ -6,6 +6,7 @@
   - [1 Web Application](#1-Web-application)
     
       - [1.2 Designs](#Designs)
+      - [1.3 UX test Methods](#Ux-Test-Methods)
   - [3.2 Software Quality](#2-Software-quality)
   - [3.3 Agile Method](#3-Agile-method)
   - [3.4 CI/CD](#4-CI/CD)
@@ -72,7 +73,7 @@ on the second page you'll be able to add your own location to the site. you'll b
 ![Screenshot 2023-04-12 103940](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/b4fe2e88-f799-4486-87b5-6e1d2faaa049)
 on the third page you'll be able to see places you added yourself to the map. you will also be able to delete or edit locations here. 
 
-### UX Test:
+### UX Test Methods:
 
 
 #### the Three most commonly used usability testing methods are:
