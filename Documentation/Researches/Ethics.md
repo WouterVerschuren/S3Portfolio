@@ -24,4 +24,9 @@ Finnish society often emphasizes social responsibility, including in software de
 
 ### problems and challenges:
 
-when working together with people from multiple different countries there can arise a few problems and challenges. one of these challenges is the difference in native language. since both finland and the netherlands speak different languages it's impossible to talk with our native tongue. Another problem that may acure is the difference in cultural in social differences. this can be a challenge for example since Dutch people are usually direct and say what comes to their mind, while finnish people are more kept to them themselves and usually a bit more afraid to say what they think. another thing to take into consideration when working together with people from finland is that there is a 1 hour time difference 
+when working together with people from multiple different countries there can arise a few problems and challenges. one of these challenges is the difference in native language. since both finland and the netherlands speak different languages it's impossible to talk with our native tongue. Another problem that may acure is the difference in cultural in social differences. this can be a challenge for example since Dutch people are usually direct and say what comes to their mind, while finnish people are more kept to them themselves and usually a bit more afraid to say what they think. another thing to take into consideration when working together with people from finland is that there is a 1 hour time difference. This will also makes the challenge into planning things or meetings.
+
+
+### how to overcome these problems and challenges:
+
+one of the challenges is the language difference but thankfully nowadays if there is any confusion you can use translate software to translate things you don't understand. and since most of Finland and the netherlands [speak english](https://www.weforum.org/agenda/2019/11/countries-that-speak-english-as-a-second-language/), there isn't that much of a language barrier.
