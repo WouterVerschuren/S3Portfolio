@@ -56,6 +56,9 @@ Full-stack: You design and build a full stack application using a commonly accep
 
 To show I have enough knowledge of this learning outcome I made a frontend webapp using javascript. To know which javascript framework I am going to be using for my frontend I have made a [Research Paper](https://github.com/WouterVerschuren/S3Portfolio/blob/main/Documentation/Researches/Javascript%20Framework.md) on which javascript framework would be the best for me and my project. For my backend I made a WepAPI using asp.net C#. My database is being hosted on azure. 
 
+
+#### Designs:
+
 I started of with some designs. with these designs I show that I have knowledge of the design part of this learning outcome.
 
 I choice a very simple design with a minamalistic/clean look. The reason I choice for this look is that urban explorers are usually people how are fairly young (around 17 to 30 year old). Since the most people around this age are fairly used to working on the internet the design will be very easy to follow for them. I also made sure to give the side a grayish tint. The reason I choice to do this is to is that urban exploring is for people how sometimes do sketchy/edgy things. to add to this vibe I made the site in a gray look. another reason for the simplistic design is that the webapp is pretty minimalistc it self as it doesn't have that many functionalities. so it doesn't need any fancy sidebar or things like that.
