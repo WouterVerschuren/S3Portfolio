@@ -7,6 +7,7 @@
     
       - [1.2 Designs](#Designs)
       - [1.3 UX test Methods](#Ux-Test-Methods)
+      - [1.4 UX Tests](#UX-Tests)
   - [3.2 Software Quality](#2-Software-quality)
   - [3.3 Agile Method](#3-Agile-method)
   - [3.4 CI/CD](#4-CI/CD)
@@ -90,7 +91,7 @@ with this method you let the user verbalize their thoughts and actions while usi
 
 I decided for my own usability test to use a mix of the user interview and the thinking aloud usability test. as these give in my opinion the best results when it comes to feedback, problems, user expectations and more usefull data.
 
-#### UX:
+#### UX Tests:
 ##### UrbanExplorer (my brother):
 my brother told me that the designs looked good. He really liked the minimalistic look as it helped him navigate the pages easily and made everything clear. Although he also said:” the minimalistic part also makes it a little childish”. “but then again the grayish style makes that not that important”.
 Overall a good looking webapp and easy to navigate everything was easy to follow even tho I see it for the first time.
