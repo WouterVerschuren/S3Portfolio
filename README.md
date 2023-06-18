@@ -100,7 +100,11 @@ Overall a good looking webapp and easy to navigate everything was easy to follow
 My mother thought the designs looked good aswell allthough she did think that the grayish wasn't as nice to look at. she thought there wasn't enough color on the page. however she did think this also was usefull as it made sure the location points are easy to see on the map. this meant for her that the this design feauture was good enough for her.
 
 #### Website User Test:
-since my brother is in the catogory of the users that would use my website I let him test the mock version of my website. since the website is currently in a pretty minimalic stage there isn't that much funcationality. I did however get some valuable feedback from him. currently in the Add location page it isn't very clear when you added a location to the map as it doesn't show any confirmation for creating a location. with this feeback I made sure to add a confirmation pop up so that the user can see wether a location has been created succesfully or not.
+since my brother is in the catogory of the users that would use my website I let him test the mock version of my website. since the website is currently in a pretty minimalic stage there isn't that much funcationality. I did however get some valuable feedback from him. currently in the Add location page it isn't very clear when you added a location to the map as it doesn't show any confirmation for creating a location. with this feeback I made sure to add a confirmation pop up so that the user can see wether a location has been created succesfully or not. so before there was no indication of knowing wether the location had been added or not and now I created these two pop ups to show if it went correctly or not:
+
+![Screenshot 2023-06-18 215055](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/1fa9bb03-1e5e-4e56-9e88-9ccbecbcf7da)
+
+![Screenshot 2023-06-18 215129](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/c3f7239c-364a-417c-85a4-0fa4bf5d6724)
 
 
 ## 2 Software quality
