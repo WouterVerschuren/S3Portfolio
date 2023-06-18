@@ -8,7 +8,9 @@
       - [1.2 Designs](#Designs)
       - [1.3 UX test Methods](#Ux-Test-Methods)
       - [1.4 UX Tests](#UX-Tests)
-  - [3.2 Software Quality](#2-Software-quality)
+  - [2 Software Quality](#2-Software-quality)
+
+    - [2.1 Test Plane](#test-plan)
   - [3.3 Agile Method](#3-Agile-method)
   - [3.4 CI/CD](#4-CI/CD)
   - [3.5 Cultural differences and ethics](#5-Cultural-differences-and-ethics)
@@ -136,7 +138,7 @@ Overall a good looking webapp and easy to navigate everything was easy to follow
 ##### Digital Illiterate (My mother):
 My mother thought the designs looked good aswell allthough she did think that the grayish wasn't as nice to look at. she thought there wasn't enough color on the page. however she did think this also was usefull as it made sure the location points are easy to see on the map. this meant for her that the this design feauture was good enough for her.
 
-### 2. User account managament
+### 1. User account managament
 ### Objective: make sure that users can create and manage their accounts.
 ### Test scenarios:
 
@@ -148,7 +150,7 @@ Verify that a user can log in with valid credentials.
 
 Verify that a user can’t log in with invalid credentials.
 
-### 3. Adding and managing places
+### 2. Adding and managing places
 ### Objective: make sure that a user can add places on the map, edit places information and delete places from the map.
 ### Test scenarios:
 
@@ -164,7 +166,7 @@ Verify that a user can remove a place they added.
 
 Verify that a user can view all the places on the map.
 
-### 4. integration tests
+### 3. integration tests
 ### Objective: make sure the flow between backend and frontend works as intended.
 ### Test scenarios:
 
@@ -172,8 +174,10 @@ verify that a crud operation can travel between the database backend and fronten
 
 verify that the connection works between backend and frotend works as intended.
 
+### type of tests:
 
-### the types of test I am gonna use with my test plan are: 
+the types of test I am gonna use with my test plan are: 
+
 ### 1. Unit tests
 
 Unit tests are very low level and close to the source of an application. They consist in testing individual methods and functions of the classes, components, or modules used by your software. Unit tests are generally quite cheap to automate and can run very quickly by a continuous integration server.
