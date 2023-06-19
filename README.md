@@ -341,7 +341,7 @@ for our group project we made a website where you can create groups and in these
 
 ![Screenshot 2023-06-14 125420](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/beeef855-b44d-4c8e-89bd-2aea44fb03ee)
 
-we also made a database model for our group project. 
+### we also made a database model for our group project. 
 
 ![Screenshot 2023-06-19 094454](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/89893d6b-9d40-46f2-825b-32c2c40fcfed)
 
