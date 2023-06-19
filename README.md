@@ -1,8 +1,8 @@
 # Semester 3 Portfolio Wouter Verschuren
 
 ## Table of contents:
-- Intdroduction](#Introducation)
-- Learning Outcomes](#Learning-Outcomes)
+- [Intdroduction](#Introducation)
+- [Learning Outcomes](#Learning-Outcomes)
   - [1 Web Application](#1-Web-application)
     
       - [1.2 Designs](#Designs)
