@@ -5,10 +5,11 @@
 - [Learning Outcomes](#Learning-Outcomes)
 - [1 Web Application](#1-Web-application)
     
-      - [1.2 Designs](#Designs)
-      - [1.3 UX test Methods](#Ux-Test-Methods)
-      - [1.4 UX Tests](#UX-Tests)
-  - [2 Software Quality](#2-Software-quality)
+  - [1.2 Designs](#Designs)
+  - [1.3 UX test Methods](#Ux-Test-Methods)
+  - [1.4 UX Tests](#UX-Tests)
+  
+- [2 Software Quality](#2-Software-quality)
 
     - [2.1 Test Plane](#test-plan)
     - [2.2 type of tests](#type-of-tests)
