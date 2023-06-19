@@ -14,12 +14,12 @@
     - [2.1 Test Plane](#test-plan)
     - [2.2 type of tests](#type-of-tests)
     - [2.3 Code Scan](#Code-SCan)
-  - [3.3 Agile Method](#3-Agile-method)
-  - [3.4 CI/CD](#4-CI/CD)
-  - [3.5 Cultural differences and ethics](#5-Cultural-differences-and-ethics)
-  - [3.6 Requirements and Design](#6-Requirements-and-Design)
-  - [3.7 Bussiness Process](#7-Bussiness-Process)
-  - [3.8 Professional](#8-Professional)
+- [3.3 Agile Method](#3-Agile-method)
+- [3.4 CI/CD](#4-CI/CD)
+- [3.5 Cultural differences and ethics](#5-Cultural-differences-and-ethics)
+- [3.6 Requirements and Design](#6-Requirements-and-Design)
+- [3.7 Bussiness Process](#7-Bussiness-Process)
+- [3.8 Professional](#8-Professional)
 
 ## Introducation:
 
