@@ -1,6 +1,14 @@
 # how can I add authentication to my urban Explorer webapp?
 
-### why this research:
+### content:
+- [Why this research](#Why-this-research)
+- [What is authentication](#What-is-authentication)
+- [What is OAuth](#What-is-OAuth)
+- [What is keycloak](#What-is-keycloak)
+- [what is the difference between authentication and authorization](what-is-the-difference-between-authentication-and-authorization)
+- [conclusion](#conclusion)
+
+### Why this research:
 I want to make sure that users can have there own specific data on my website and that that they can add, update and delete this data. this will make it so that people won't be able to change data from other people. it will also for adminastrators to change or delete data when it's incorrect or unsave. It will also help with safety for the website in general. In this research I am gonna try to find a good and safe way to make sure my webapp is secured.
 
 
@@ -19,7 +27,7 @@ Source: [Wikipedia Authenticatie](https://nl.wikipedia.org/wiki/Authenticatie)
 
 you can look at authentication as a lock on your door it will help keep onwanted intruders out and let trusted people. the only way you can get inside is when you have the right key and only then you will be allowed excess to your house (website).
 
-### OAuth
+### What is OAuth
 
 OAuth (Open Authorization) is an open standard for authorization. This allows users to give a program or website access to their private data, which is stored on another website, without having to hand over their username and password. OAuth uses tokens, so that confidential data such as a username or password do not have to be provided. Each token only gives access to specific data from one website for a certain duration. For example, it can be set that a certain program only has access to the data for one year. After this, access may be requested again.
 
@@ -29,7 +37,7 @@ Oauth is a commonly used structure for authorizing actors for an application or 
 
 ![download](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/63c5d4c5-72b9-4629-ac4d-7abe84ba906f)
 
-### keycloak
+### What is keycloak
 Keycloak is an open-source Identity and Access Management solution for modern applications and services. It provides easy security integration with minimal coding. Key features include Single Sign-On, Identity Brokering with social login support, an Admin Console for centralized management, and support for standard protocols like OpenID Connect, OAuth 2.0, and SAML. Keycloak is highly versatile and can be used in various projects to establish robust security services.
 
 Source: [DZone](https://dzone.com/articles/what-is-keycloak-and-when-it-may-help-you)
