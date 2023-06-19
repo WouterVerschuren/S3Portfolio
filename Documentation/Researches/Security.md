@@ -4,7 +4,7 @@
 I want to make sure that users can have there own specific data on my website and that that they can add, update and delete this data. this will make it so that people won't be able to change data from other people. it will also for adminastrators to change or delete data when it's incorrect or unsave. It will also help with safety for the website in general. In this research I am gonna try to find a good and safe way to make sure my webapp is secured.
 
 
-### What is authenticatie
+### What is authentication
 
 authentication is a process where you determine wether a user of your website. is how they say they are. it also helps determine wether a user is real or not. authentication is often performed by having the user fill in their credidentials in the specified place on the site. Once they have done this the data will go send to the backend and the credentials that the user filled in will be compared with the credentials in the database. if the credentials are the same as the ones in the databse the user will be logged into their account. if not, then an error will accure. the reason for authentication is to have a more secure and save system.
 
