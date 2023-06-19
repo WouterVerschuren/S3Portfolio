@@ -16,9 +16,7 @@ I want to make sure that users can have there own specific data on my website an
 
 ### What is authentication
 
-authentication is a process where you determine wether a user of your website. is how they say they are. it also helps determine wether a user is real or not. authentication is often performed by having the user fill in their credidentials in the specified place on the site. Once they have done this the data will go send to the backend and the credentials that the user filled in will be compared with the credentials in the database. if the credentials are the same as the ones in the databse the user will be logged into their account. if not, then an error will accure. the reason for authentication is to have a more secure and save system.
-
-Mary E. Shacklett, 2021
+authentication is a process where you determine wether a user of your website. is how they say they are. it also helps determine wether a user is real or not. authentication is often performed by having the user fill in their credidentials in the specified place on the site. Once they have done this the data will go send to the backend and the credentials that the user filled in will be compared with the credentials in the database. if the credentials are the same as the ones in the databse the user will be logged into their account. if not, then an error will accure. the reason for authentication is to have a more secure and save system. Mary E. Shacklett, 2021
 
 
 Authenticatie is het proces waarbij iemand nagaat of een gebruiker, een andere computer of applicatie daadwerkelijk is wie hij beweert te zijn. Bij de authenticatie wordt gecontroleerd of een opgegeven bewijs van identiteit overeenkomt met echtheidskenmerken, bijvoorbeeld een in het systeem geregistreerd bewijs. De authenticiteit van het object moet worden nagegaan. Een computer met daarvoor ontworpen applicaties kan hierbij helpen.
