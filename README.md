@@ -327,7 +327,13 @@ individual user stories:
 
 ![Screenshot 2023-06-14 123120](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/0e9bb2b4-c22e-4ead-82e3-b3076f3e9803)
 
-I also made designs for our group project:
+
+
+
+
+### We also made designs for our group project:
+
+for our group project we made a website where you can create groups and in these groups you can create events. In these evens you can choose movies youd like to watch and vote on these movies to add them to a list. this will help the groups to pick a movie they all like. then you can give location and other information for the event. eventually you can come together and watch the movie with the most votes. 
 
 ![Screenshot 2023-06-14 125516](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/155a701a-b7c7-4d2f-9c04-38324541c460)
 
@@ -335,6 +341,9 @@ I also made designs for our group project:
 
 ![Screenshot 2023-06-14 125420](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/beeef855-b44d-4c8e-89bd-2aea44fb03ee)
 
+we also made a database model for our group project. 
+
+![Screenshot 2023-06-19 094454](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/89893d6b-9d40-46f2-825b-32c2c40fcfed)
 
 ## 7 Bussiness Process
 
