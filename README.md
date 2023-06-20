@@ -54,7 +54,7 @@ This folder contains all the project information. It consists of all the code an
 | 7 | Business processes | You analyze and describe **simple** business processes that are **related** to your project. | **Simple:** Involving stakeholders, predominantly sequential processes with one or two alternative paths.<br>**Related:** Business processes during which the software that you are developing will be used (business processes that the software must support by fully or partially automating them).<br>**or**<br>Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance). |
 | 8 | Professional | You act in a **professional manner** during software development and learning. | **Professional manner:** You develop software as a team effort according to a prescribed software methodology and following team agreements. You are able to track your work progress and communicate your progress with the team.<br>You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions. You choose and substantiate solutions for a given problem. |
 
-## 1 Web application
+# 1 Web application
 
 You design and build user-friendly, full-stack web applications.
 
@@ -118,7 +118,7 @@ since my brother is in the catogory of the users that would use my website I let
 ![Screenshot 2023-06-18 215129](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/c3f7239c-364a-417c-85a4-0fa4bf5d6724)
 
 
-## 2 Software quality
+# 2 Software quality
 
 You use software tooling and methodology that continuously monitors and improve the software quality during software development.
 
@@ -130,7 +130,7 @@ Tooling and methodology: Carry out, monitor and report on unit integration, regr
 to show that I have enough knowledge of this learning outcome I made a test plan of what I am going to test. 
 
 
-# Test Plan: 
+## Test Plan: 
 ### 1. UX test
 ### objective: make sure that the designs of the site are easy to follow and are clear.
 ### test scenarios:
