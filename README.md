@@ -5,9 +5,9 @@
 - [Learning Outcomes](#Learning-Outcomes)
 - [1 Web Application](#1-Web-application)
     
-    - [1.2 Designs](#Designs)
-    - [1.3 UX test Methods](#Ux-Test-Methods)
-    - [1.4 UX Tests](#UX-Tests)
+    - [1.1 Designs](#Designs)
+    - [1.2 UX test Methods](#Ux-Test-Methods)
+    - [1.3 UX Tests](#UX-Tests)
   
 - [2 Software Quality](#2-Software-quality)
 
@@ -101,6 +101,17 @@ with this method you let the user verbalize their thoughts and actions while usi
 
 
 I decided for my own usability test to use a mix of the user interview and the thinking aloud usability test. as these give in my opinion the best results when it comes to feedback, problems, user expectations and more usefull data.
+
+## UX Test:
+
+### objective: make sure that the designs of the site are easy to follow and are clear and make sure that the website functions properly.
+### test scenarios:
+
+verify that the user is able to use everything on the site as intended. 
+
+verify that the User likes to designs and that they like the look.
+
+verify that things are clear and easy to follow.
 
 #### UX Tests Design:
 ##### UrbanExplorer (my brother):
