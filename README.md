@@ -11,9 +11,11 @@
   
 - [2 Software Quality](#2-Software-quality)
 
-    - [2.1 Test Plane](#test-plan)
+    - [2.1 Test Plan](#test-plan)
     - [2.2 type of tests](#type-of-tests)
     - [2.3 Code Scan](#Code-SCan)
+    - [2.4 Back-End Test](#back-end-tests)
+    - [2.5 Front-End Tets](#front-end-tests)
 - [3.3 Agile Method](#3-Agile-method)
 - [3.4 CI/CD](#4-CI/CD)
 - [3.5 Cultural differences and ethics](#5-Cultural-differences-and-ethics)
@@ -202,7 +204,9 @@ I also added a code scan for my frontend project using soundcloud:
 
 here you can easily see if there are any bugs, vulnerabilities and other problems with the code.
 
+### Back-End Tests:
 
+### Front-End tests
 
 
 ## 3 Agile method
