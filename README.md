@@ -143,7 +143,7 @@ to show that I have enough knowledge of this learning outcome I made a test plan
 
 ## Test Plan: 
 ### 1. UX tests
-    [UX Tests](#ux-Tests
+    [UX Tests](#UX-Tests)
 
 ### 1. User account managament
 ### Objective: make sure that users can create and manage their accounts.
