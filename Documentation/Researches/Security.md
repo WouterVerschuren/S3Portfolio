@@ -8,7 +8,7 @@
 - [what is the difference between authentication and authorization](what-is-the-difference-between-authentication-and-authorization)
 - [conclusion](#conclusion)
 
-for this research research paper I did a literature research.
+for this research research paper I did a literature research. The reason why I choose to do this with a literature research is that I want to collect as much data from the internet about this topic as it's quite new to me 
 
 ### Why this research:
 I want to make sure that users can have there own specific data on my website and that that they can add, update and delete this data. this will make it so that people won't be able to change data from other people. it will also for adminastrators to change or delete data when it's incorrect or unsave. It will also help with safety for the website in general. In this research I am gonna try to find a good and safe way to make sure my webapp is secured.
@@ -22,8 +22,8 @@ authentication is a process where you determine wether a user of your website. i
 Authenticatie is het proces waarbij iemand nagaat of een gebruiker, een andere computer of applicatie daadwerkelijk is wie hij beweert te zijn. Bij de authenticatie wordt gecontroleerd of een opgegeven bewijs van identiteit overeenkomt met echtheidskenmerken, bijvoorbeeld een in het systeem geregistreerd bewijs. De authenticiteit van het object moet worden nagegaan. Een computer met daarvoor ontworpen applicaties kan hierbij helpen.
 
 Authentication is the second step in the access control process. The first step in this process is identification, the third and final step is authorization.
+(Turner Dawn M, 2017)
 
-Source: [Wikipedia Authenticatie](https://nl.wikipedia.org/wiki/Authenticatie)
 
 you can look at authentication as a lock on your door it will help keep onwanted intruders out and let trusted people. the only way you can get inside is when you have the right key and only then you will be allowed excess to your house (website).
 
@@ -63,9 +63,9 @@ authenthication is usefull way to keep your website safe from unwanted users. it
 
 
 Sources: 
-- Shacklett M.E. , 2021 [Tech Target](https://www.techtarget.com/searchsecurity/definition/authentication)
-- [Wikipedia Authenticatie](https://nl.wikipedia.org/wiki/Authenticatie)
+- Shacklett M.E. & Linda Rosencrance , 2021 , "authentication" [Tech Target](https://www.techtarget.com/searchsecurity/definition/authentication)
+- Turner, Dawn M., 2017 , "Digital Authentication: The Basics" [Cryptomathic](https://www.cryptomathic.com/news-events/blog/digital-authentication-the-basics)
 - [Wikipedia OAuth](https://en.wikipedia.org/wiki/OAuth)
-- Żyliński B, 2021 [DZone](https://dzone.com/articles/what-is-keycloak-and-when-it-may-help-you)
-- [OneLogin](https://www.onelogin.com/learn/authentication-vs-authorization#:~:text=Authentication%20and%20authorization%20are%20two,authorization%20determines%20their%20access%20rights.)
+- Żyliński B, 2021 , What Keycloak Is and What It Does? [DZone](https://dzone.com/articles/what-is-keycloak-and-when-it-may-help-you)
+- by unknown, 2022,  "Authentication vs. Authorization" [OneLogin](https://www.onelogin.com/learn/authentication-vs-authorization#:~:text=Authentication%20and%20authorization%20are%20two,authorization%20determines%20their%20access%20rights.)
 
