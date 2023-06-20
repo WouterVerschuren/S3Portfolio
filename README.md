@@ -102,7 +102,7 @@ with this method you let the user verbalize their thoughts and actions while usi
 
 I decided for my own usability test to use a mix of the user interview and the thinking aloud usability test. as these give in my opinion the best results when it comes to feedback, problems, user expectations and more usefull data.
 
-## UX Test:
+## UX Tests:
 
 ### objective: make sure that the designs of the site are easy to follow and are clear and make sure that the website functions properly.
 ### test scenarios:
