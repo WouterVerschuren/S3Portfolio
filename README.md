@@ -19,11 +19,16 @@
       
 - [3 Agile Method](#3-Agile-method)
 
-    - [Scrum](#Scrum)
-    - [kanban](#kanban)
-    - [Group Project](#group-project)
+    - [3.1 Scrum](#Scrum)
+    - [3.2 kanban](#kanban)
+    - [3.3 Group Project](#group-project)
   
 - [4 CI/CD](#4-CI/CD)
+  
+    - [4.1 Pipeline](#Pipeline)
+    - [4.2 CI](#CI)
+    - [4.3 CD](#CD)
+      
 - [5 Cultural differences and ethics](#5-Cultural-differences-and-ethics)
 - [6 Requirements and Design](#6-Requirements-and-Design)
 - [7 Bussiness Process](#7-Bussiness-Process)
@@ -227,7 +232,7 @@ In this second test I make sure that the connection string is still correct so t
 ### Front-End tests
 
 
-## 3 Agile method
+# 3 Agile method
 
 You choose and implement the most suitable agile software development method for your software project.
 
@@ -279,7 +284,7 @@ since scrum is designed for unpredicatbale projects with its adaptability, flexi
 
 
 
-## 4 CI/CD
+# 4 CI/CD
 
 You design and implement a (semi)automated software release process that matches the needs of the project context.
 
@@ -290,11 +295,26 @@ Design and implement: You design a release process and implement a continuous in
 
 ### how I plan to show this learning outcome in my project: 
 
+## pipeline:
+
 To show I have enough knowledge of CI/CD I am hosting my frontend and back end in azure. I created a pipeline that deploys both applications using a github action. I also added CI to this pipelin so that I use continues integration. I made sure that in this pipeline all my test are getting called aswell. once a test fails the project won't be able to deploy and when all tests are past without errors then it will deploy. This will help show if there are any errors in my project.
 
 my pipeline:
 
 ![Screenshot 2023-06-14 123845](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/92b685ae-627f-4e48-b9bf-9cbf9cba4575)
+
+
+### CI:
+
+The CI automcatically runs all my tests and makes sure the merged code changes are reliable.
+
+![Screenshot 2023-06-20 155205](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/9b46feaf-70b4-4ac5-af17-24942f1c56b5)
+
+### CD:
+
+The CD makes sure that the project gets continuously deplayed/delivered.
+
+![Screenshot 2023-06-20 155241](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/3b7720db-7244-4c78-9fe5-ee56ae9ec286)
 
 ## 5 Cultural differences and ethics
 
