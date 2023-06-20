@@ -38,24 +38,26 @@ In this picture you'll see a comparison of the hofstede demensions of the Nether
 
 ![Screenshot 2023-06-20 214337](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/fa6a8830-85dd-4ed4-8fda-d668599e0b4d)
 
-#### power Distance:
+#### 1. power Distance:
 when it comes to Power Distance Finland and the Netherlands both score pretty low this means that both countries are keen on equal rights. This means that attitude towards higher ups are informal and usually on a first name basis. This also means that power is decentralized and managers count on the experience of their team members.
 
-#### individualism:
+#### 2. individualism:
 when it comes to individualism the netherlands scores a lot higher then finland. This means that in the netherlands people are expected to take care of themselves and family individually while in Finland it's more common to help other people. 
 
-#### masculinity:
+#### 3. masculinity:
 when it comes to masculinity Finland scores a little higher then the Netherlands. This means that Finland is a country that is more driven by competition. achievement and succes while the Netherlands is a more feminine country. This means that in the Netherlands it's more important that all are included. descision making is done by involvement. equality is the biggest facture in this decision making.
 
-#### uncertainty avoidance:
+#### 4. uncertainty avoidance:
 when it comes to uncertainty avoicedance Finland and the Netherlands both score fairly similar. This means that for both countries it's really imporant that there are good rules even if they don't seem to work. Both countries need to be sure there goood rigid codes of believe to make sure everything goes by rules. This will help against confusion and time waste. 
 
 
-#### long term orientation:
+#### 5. long term orientation:
 when it comes to long term orientation the Netherlands score much higher then Finland. This means that for Finland it's important to establish a absolute truth, meaning they have a normative way of thinking. the tend to respect traditions and have relatively small propensity to save for the future. This is why they like quick results more then better long term results. In the Netherlands its different. In the Netherlands we think more in a long term way. we show that we easily adopt traditions to changed conditions. we have a big prospority to save and invest in the future. 
 
-#### indulgence:
+#### 6. indulgence:
 when it comes to indulgence the Netherlands scores a little higher then Finland. This means that both countries tend to be more to the optemistic side and both value their free time as a big importance. they also act as they please and like to spend their money the way the want. Since the Netherlands scores a little higher this all goes for the Netherlands a little more.
+
+more information of the comparison between Finland and the Netherlands with the [hofstede demensions](https://www.hofstede-insights.com/country-comparison-tool?countries=finland%2Cnetherlands)
 
 ### problems and challenges:
 
