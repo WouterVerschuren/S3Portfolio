@@ -64,7 +64,7 @@ authenthication is usefull way to keep your website safe from unwanted users. it
 Sources: 
 - Shacklett M.E. & Linda Rosencrance , 2021 , "authentication" [Tech Target](https://www.techtarget.com/searchsecurity/definition/authentication)
 - Turner, Dawn M., 2017 , "Digital Authentication: The Basics" [Cryptomathic](https://www.cryptomathic.com/news-events/blog/digital-authentication-the-basics)
-- Hardt D. , 2020 , "The OAuth 2.0 Authorization Framework" [0auth(https://datatracker.ietf.org/doc/html/rfc6749)
+- Hardt D. , 2020 , "The OAuth 2.0 Authorization Framework" [0auth](https://datatracker.ietf.org/doc/html/rfc6749)
 - Żyliński B, 2021 , What Keycloak Is and What It Does? [DZone](https://dzone.com/articles/what-is-keycloak-and-when-it-may-help-you)
 - by unknown , 2022,  "Authentication vs. Authorization" [OneLogin](https://www.onelogin.com/learn/authentication-vs-authorization#:~:text=Authentication%20and%20authorization%20are%20two,authorization%20determines%20their%20access%20rights.)
 
