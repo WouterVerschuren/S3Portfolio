@@ -35,7 +35,10 @@
 
 - [6 Requirements and Design](#6-Requirements-and-Design)
 
-    - [
+    - [6. individual designs](#individual-desings)
+    - [6. User stories](#user-stories)
+    - [6. designs Group project](#group-project-designs)
+    - [6. database model](#database-model)
   
 - [7 Bussiness Process](#7-Bussiness-Process)
 
@@ -364,6 +367,8 @@ Multiple types of test techniques: You apply user acceptance testing and stakeho
 
 ### how I plan to show this learning outcome in my project: 
 
+## designs: 
+
 to show I have enough knowledge of this learning outcome you've have previously seen [some designs](#1-Web-application) I made for my individual project. 
 To test these user designs I created some simples user tests. 
 
@@ -374,6 +379,8 @@ To test my designs I got a few users to look at them and give me advise and/or f
 ![Screenshot 2023-06-07 205314](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/4ac0877b-abcc-4be5-b5a7-1e76eca1930c)
 
 I also made User stories both for my individual project and group project. for my individual project I only put the user stories in a board to see what I have left to do. but for my group project we also performed scrum on it. this user stories helped me to see what I had left to do and see what I had finished.
+
+## user stories
 
 group project user stories:
 
@@ -387,8 +394,9 @@ individual user stories:
 
 
 
+## group project designs:
 
-### We also made designs for our group project:
+##### We also made designs for our group project:
 
 for our group project we made a website where you can create groups and in these groups you can create events. In these evens you can choose movies youd like to watch and vote on these movies to add them to a list. this will help the groups to pick a movie they all like. then you can give location and other information for the event. eventually you can come together and watch the movie with the most votes. 
 
@@ -398,7 +406,8 @@ for our group project we made a website where you can create groups and in these
 
 ![Screenshot 2023-06-14 125420](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/beeef855-b44d-4c8e-89bd-2aea44fb03ee)
 
-### we also made a database model for our group project. 
+## database model
+##### we also made a database model for our group project. 
 
 ![Screenshot 2023-06-19 094454](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/89893d6b-9d40-46f2-825b-32c2c40fcfed)
 
