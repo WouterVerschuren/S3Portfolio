@@ -29,9 +29,9 @@ you can look at authentication as a lock on your door it will help keep onwanted
 
 ### What is OAuth
 
-OAuth (Open Authorization) is an open standard for authorization. This allows users to give a program or website access to their private data, which is stored on another website, without having to hand over their username and password. OAuth uses tokens, so that confidential data such as a username or password do not have to be provided. Each token only gives access to specific data from one website for a certain duration. For example, it can be set that a certain program only has access to the data for one year. After this, access may be requested again.
+OAuth (Open Authorization) is an open standard for authorization. This allows users to give a program or website access to their private data, which is stored on another website, without having to hand over their username and password. OAuth uses tokens, so that confidential data such as a username or password do not have to be provided. Each token only gives access to specific data from one website for a certain duration. For example, it can be set that a certain program only has access to the data for one year. After this, access may be requested again. (Hardt D. , 2020)
 
-Source: [Wikipedia OAuth](https://en.wikipedia.org/wiki/OAuth)
+
 
 Oauth is a commonly used structure for authorizing actors for an application or website. This autoresis makes it possible for the actors to access certain data from another app. The basic app provides the credentials (username and password of the actor) to the authentication service, which will then verify it. If these are correct, the actor receives a token that serves as a key for the other applications in order to access the correct data. The actual access is called the authorization process. This token is valid for a certain time and will therefore have to be replaced once. However, this depends on the application.
 
@@ -51,9 +51,8 @@ Keycloak is an open-source Identity and Access Management solution for modern ap
 
 ### what is the difference between authentication and authorization?
 
-Authentication and authorization are two terms often used together, but they carry distinct meanings. Authentication involves verifying whether a user is genuine and possesses the necessary rights to access a system. It entails validating unique information known only to the user, such as passwords or biometrics. On the other hand, authorization assumes that the user's identity has already been established. It primarily focuses on determining the specific data that the user is allowed or not allowed to see. While these two concepts are interconnected and reliant on each other, it's essential to differentiate between them due to their divergent purposes.
+Authentication and authorization are two terms often used together, but they carry distinct meanings. Authentication involves verifying whether a user is genuine and possesses the necessary rights to access a system. It entails validating unique information known only to the user, such as passwords or biometrics. On the other hand, authorization assumes that the user's identity has already been established. It primarily focuses on determining the specific data that the user is allowed or not allowed to see. While these two concepts are interconnected and reliant on each other, it's essential to differentiate between them due to their divergent purposes. (OneLogin, 2022)
 
-Source: [OneLogin](https://www.onelogin.com/learn/authentication-vs-authorization#:~:text=Authentication%20and%20authorization%20are%20two,authorization%20determines%20their%20access%20rights.)
 
 ### conclusion:
 
@@ -65,7 +64,7 @@ authenthication is usefull way to keep your website safe from unwanted users. it
 Sources: 
 - Shacklett M.E. & Linda Rosencrance , 2021 , "authentication" [Tech Target](https://www.techtarget.com/searchsecurity/definition/authentication)
 - Turner, Dawn M., 2017 , "Digital Authentication: The Basics" [Cryptomathic](https://www.cryptomathic.com/news-events/blog/digital-authentication-the-basics)
-- [Wikipedia OAuth](https://en.wikipedia.org/wiki/OAuth)
+- Hardt D. , 2020 , "The OAuth 2.0 Authorization Framework" [0auth(https://datatracker.ietf.org/doc/html/rfc6749)
 - Żyliński B, 2021 , What Keycloak Is and What It Does? [DZone](https://dzone.com/articles/what-is-keycloak-and-when-it-may-help-you)
-- by unknown, 2022,  "Authentication vs. Authorization" [OneLogin](https://www.onelogin.com/learn/authentication-vs-authorization#:~:text=Authentication%20and%20authorization%20are%20two,authorization%20determines%20their%20access%20rights.)
+- by unknown , 2022,  "Authentication vs. Authorization" [OneLogin](https://www.onelogin.com/learn/authentication-vs-authorization#:~:text=Authentication%20and%20authorization%20are%20two,authorization%20determines%20their%20access%20rights.)
 
