@@ -181,7 +181,7 @@ Verify that a user can view all the places on the map.
 
 verify that a crud operation can travel between the database backend and frontend.
 
-verify that the connection works between backend and frotend works as intended.
+verify that the connection string is correct so that data can pass from the database to the backend and eventually to the frontend.
 
 ### type of tests:
 
@@ -209,6 +209,19 @@ I also added a code scan for my frontend project using soundcloud:
 here you can easily see if there are any bugs, vulnerabilities and other problems with the code.
 
 ### Back-End Tests:
+
+I currently have two backend tests:
+
+1.
+![Screenshot 2023-06-20 120906](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/343e4844-bf52-4ff2-9f20-3936f2971c17)
+
+In this First test I test to see if data from the database gets correctly fetched. I do this by having creating a location with the same data as the first location in the database and to see if this data is the same. If the data isn't the same the test will fail. If the data is the same the test will pass.
+
+2.
+![Screenshot 2023-06-20 121025](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/666f3f86-ed29-48d8-a930-4454d44d574d)
+
+In this second test I make sure that the connection string is still correct so that I can make sure that the backend is able to get the data it wants from the database. I do this by checking if the connection string is able to make a connection with the database. If it is able to do this then the test passes. 
+
 
 ### Front-End tests
 
