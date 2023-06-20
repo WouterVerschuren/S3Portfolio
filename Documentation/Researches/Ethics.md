@@ -1,5 +1,8 @@
 # What are the ethical considerations and challenges associated with cross-cultural collaboration in a software development project between Finland and the Netherlands.
 
+
+
+
 ### Introducation:
 
 When people from different cultures/countries work together on software development projects, there are ethical issues and challenges to consider before starting the project. In this research paper we will look at these issues and challenges, this includes topics like intellectual property, privacy, fairness, and cultural respect. the goal of this research paper is to find the best ways to work with challenges when creating a software project with different cultures.
