@@ -5,9 +5,9 @@
 - [Learning Outcomes](#Learning-Outcomes)
 - [1 Web Application](#1-Web-application)
     
-  - [1.2 Designs](#Designs)
-  - [1.3 UX test Methods](#Ux-Test-Methods)
-  - [1.4 UX Tests](#UX-Tests)
+    - [1.2 Designs](#Designs)
+    - [1.3 UX test Methods](#Ux-Test-Methods)
+    - [1.4 UX Tests](#UX-Tests)
   
 - [2 Software Quality](#2-Software-quality)
 
@@ -16,12 +16,16 @@
     - [2.3 Code Scan](#Code-SCan)
     - [2.4 Back-End Test](#back-end-tests)
     - [2.5 Front-End Tets](#front-end-tests)
-- [3.3 Agile Method](#3-Agile-method)
-- [3.4 CI/CD](#4-CI/CD)
-- [3.5 Cultural differences and ethics](#5-Cultural-differences-and-ethics)
-- [3.6 Requirements and Design](#6-Requirements-and-Design)
-- [3.7 Bussiness Process](#7-Bussiness-Process)
-- [3.8 Professional](#8-Professional)
+      
+- [3 Agile Method](#3-Agile-method)
+
+    - 
+  
+- [4 CI/CD](#4-CI/CD)
+- [5 Cultural differences and ethics](#5-Cultural-differences-and-ethics)
+- [6 Requirements and Design](#6-Requirements-and-Design)
+- [7 Bussiness Process](#7-Bussiness-Process)
+- [8 Professional](#8-Professional)
 
 ## Introducation:
 
