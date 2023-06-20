@@ -35,10 +35,10 @@
 
 - [6 Requirements and Design](#6-Requirements-and-Design)
 
-    - [6. individual designs](#desings)
-    - [6. User stories](#user-stories)
-    - [6. designs Group project](#group-project-designs)
-    - [6. database model](#database-model)
+    - [6.1  designs](#desings)
+    - [6.2 User stories](#user-stories)
+    - [6.3 designs Group project](#group-project-designs)
+    - [6.4 database model](#database-model)
   
 - [7 Bussiness Process](#7-Bussiness-Process)
 
