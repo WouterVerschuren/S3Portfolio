@@ -31,7 +31,9 @@
       
 - [5 Cultural differences and ethics](#5-Cultural-differences-and-ethics)
 
-    - [
+    - [5.1 what is culture](#what-is-my-culture)
+    - [5.2 what is my culture](#what-is-my-culture)
+    - [5.3 Ethics research](#Ethics-research)
 
 - [6 Requirements and Design](#6-Requirements-and-Design)
 
