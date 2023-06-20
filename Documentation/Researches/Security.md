@@ -9,7 +9,7 @@
 - [conclusion](#conclusion)
 - [sources](#sources)
 
-for this research research paper I did a literature research. The reason why I choose to do this with a literature research is that I want to collect as much data from the internet about this topic as it's quite new to me 
+for this research research paper I did a literature research. this will mean that I will be reading a lot of sources and I'll be doing a lot of searching on the internet to look for information and data about the topic. I am gonna be looking for official sites to make sure I have trusted information. 
 
 ### Why this research:
 I want to make sure that users can have there own specific data on my website and that that they can add, update and delete this data. this will make it so that people won't be able to change data from other people. it will also for adminastrators to change or delete data when it's incorrect or unsave. It will also help with safety for the website in general. In this research I am gonna try to find a good and safe way to make sure my webapp is secured.
