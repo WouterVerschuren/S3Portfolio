@@ -19,7 +19,9 @@
       
 - [3 Agile Method](#3-Agile-method)
 
-    - 
+    - [Scrum](#Scrum)
+    - [kanban](#kanban)
+    - [Group Project](#group-project)
   
 - [4 CI/CD](#4-CI/CD)
 - [5 Cultural differences and ethics](#5-Cultural-differences-and-ethics)
@@ -235,9 +237,12 @@ Choose: You are aware of the most popular agile methods and their underlying agi
 
 ### how I plan to show this learning outcome in my project: 
 
+Research Paper Agile:
+
 To show I have enough knowledge of this learning outcomes I made a [research paper](https://github.com/WouterVerschuren/S3Portfolio/blob/main/Documentation/Researches/AgileMethods.md) about what agile methods there are and which would work the best for me.
 
-Scrum:
+## Scrum:
+
 Scrum Scrum is a popular Agile method and the one that I personally have the most experience with, as it is the recommended method within our study. since it is the most popular agile method to use. for our group project we choose to use scrum aswell.
 
 the scrum process.
@@ -248,7 +253,8 @@ during the duration of the project the workload will be distrubuted in sprints. 
 ![blog-scrum-process-opt (1)](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/05c804b4-789b-4b8f-b1d7-c86590ef69ba)
 
 
-Kanban:
+## Kanban:
+
 Kanban With Kanban you make use of a kanban board. A kanban board is an agile project management tool desgined to help visualize your work. it also helps visualize your limit work-in-progress and it maximizes your efficiency.
 
 A kanban board consist of cards and columns. Since the kanban board makes use of cards, where team members write all of there work items on, the kanban board is a very easy to read. You can easily see what is still left to do and what is done already. A card is usually a user story. Another thing that the kanban board has are columns. Each column you see on the kanban board represents a specific workflow. the cards flow thru this workflow until they are completed. a workflow can be something simple like "to do", "in progress", "complete" but they can also get more complicated.
@@ -264,8 +270,6 @@ kanban board
 
 ### Scrum boards:
 #### [Frontend](https://github.com/orgs/Fontys-OAMK-Beter/projects/3/views/1) - [backend](https://github.com/orgs/Fontys-OAMK-Beter/projects/2)
-
-
 
 for a group project we choose to make use of the scrum agile method as this felt for us as the best method to use. As I worked with this group before in group projects, I knew that it was important for us to have a good planning and structure in the group. Scrum makes use of sprints that are about 3-4 weeks long and makes use of a scrum board where everyone can see what everyone is doing and see what is still left to do. this will give good structure to the group where needed. In the first few sprints we didn't fully implement the scrum processes, but we made continous improvements as well we gained more knowledge about how to use scrum so in later stages we began to make improvements. 
 
