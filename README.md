@@ -30,9 +30,22 @@
     - [4.3 CD](#CD)
       
 - [5 Cultural differences and ethics](#5-Cultural-differences-and-ethics)
+
+    - [
+
 - [6 Requirements and Design](#6-Requirements-and-Design)
+
+    - [
+  
 - [7 Bussiness Process](#7-Bussiness-Process)
+
+    - [7.1 stakeholders analysis](#stakeholders-analysis)
+    - [7.2 Process Analysis](#process-anylasys)
+    - [7.3 What is a business process](#What-is-a-business-process)
+      
 - [8 Professional](#8-Professional)
+
+    - [8.1 Professional](#8-Professional)
 
 ## Introducation:
 
@@ -448,5 +461,7 @@ You actively ask and apply feedback from stakeholders and advise them on the mos
 You choose and substantiate solutions for a given problem.
 
 ### how I plan to show this learning outcome in my project: 
+
+## Professional:
 
 To show that I have enough knowledge of this learning outcome I made sure to ask feedback from my stakeholders and teachers. in the group project I did this in the form of showcases of our project where we got feedback from the stakeholders. once we got the feedback we made sure to discuse it in our group. for the individual project I made sure to ask for feedback from my teacher. I made sure to post this feedback in feedpulse so my teacher can clearly see what has been discussed and how I am planning to accomplish the things discused and explained. for our group project we also wrote peer reviews for eachother. this way everyone in our group could see where they could make improvements and see what they were doing good.
