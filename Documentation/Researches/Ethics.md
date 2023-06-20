@@ -22,6 +22,13 @@ Finland has a tradition of openness and transparency, which can extend to softwa
 ### Social Responsibility: 
 Finnish society often emphasizes social responsibility, including in software development. Ethical considerations regarding fairness, equality, and the well-being of individuals and communities are important. Finland has a strong welfare state and values equal access to technology. Finland is consired one of the best countries to live in dew to the well formed laws and stable living situations. this reflects in there software regulations aswell. The Netherlands also values social responsibility, with a focus on sustainable development, diversity, and inclusion. These values may influence software ethics by promoting equitable software access and development practices.
 
+### Hofstede's cultural dimensions:
+
+In this picture you'll see a comparison of the hofstede demensions of the Netherlands and Finland.
+
+![Screenshot 2023-06-20 214337](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/fa6a8830-85dd-4ed4-8fda-d668599e0b4d)
+
+
 ### problems and challenges:
 
 when working together with people from multiple different countries there can arise a few problems and challenges. one of these challenges is the difference in native language. since both finland and the netherlands speak different languages it's impossible to talk with our native tongue. Another problem that may acure is the difference in cultural in social differences. this can be a challenge for example since Dutch people are usually direct and say what comes to their mind, while finnish people are more kept to them themselves and usually a bit more afraid to say what they think. another thing to take into consideration when working together with people from finland is that there is a 1 hour time difference. This will also makes the challenge into planning things or meetings. communication can also be a big problem as you are so far apart.
