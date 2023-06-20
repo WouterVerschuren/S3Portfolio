@@ -359,7 +359,7 @@ As a person who is dutch I tend to have a lot of trades from dutch culture. the 
 For our group project we are currently working together with people from finland. Usually Finnish people tend to be a bit shy when you meet them for the first time and take a long time opening up. this sometimes made it diffecult to know if they were okay with certain decisions we made as they wouldn't be as harsh as we dutchies are used to. because of this we decided to make decisions we made them very clear so that they had enough time to give their honest opinion about them. We also made clear rules about everything so that everything was much easier to communicate between the group this helped everyone feel comfortable in both groups. As for myself I tried to be a lot calmer and softer with my replies as saying things to harsh could make the finnish people feel uncomfortable. We also had a group discord where we could discuss all our problems and ideas. This also helped us keep a good commmunication.
 
 ## Ethics research:
-I also made a research paper about What the ethical considerations and challenges associated with cross-cultural collaboration in a software development project between Finland and the Netherlands are.
+I also made a [research paper](https://github.com/WouterVerschuren/S3Portfolio/blob/main/Documentation/Researches/Ethics.md) about What the ethical considerations and challenges associated with cross-cultural collaboration in a software development project between Finland and the Netherlands are.
 
 
 ## 6 Requirements and Design
