@@ -427,6 +427,9 @@ individual user stories:
 
 for our group project we made a website where you can create groups and in these groups you can create events. In these evens you can choose movies youd like to watch and vote on these movies to add them to a list. this will help the groups to pick a movie they all like. then you can give location and other information for the event. eventually you can come together and watch the movie with the most votes. 
 
+We choose a vibrant color pallete for our website so that it's easy to recognize for people by the bright purple colors. On the site you can see 3 pages. 
+the first page (group page) constists of all the groups the logged in user is in. In this group you can see who else is in the group. A group can create an event, an event is a time and date on which the group is planning to watch a movie. The users from the group can all vote on movies they like and the movie that gets the most likes will be the movie that will be watched on this event. on the profile page you'll be able to change all your user settings. 
+
 ![Screenshot 2023-06-14 125516](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/155a701a-b7c7-4d2f-9c04-38324541c460)
 
 ![Screenshot 2023-06-14 125449](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/60a61411-9302-4c87-b309-2c43d9e44716)
