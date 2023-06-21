@@ -77,6 +77,7 @@ One of the challenges is the language difference but thankfully nowadays if ther
 
 
 ## Sources:
+
 - [(GDPR)](https://www.smartglobalgovernance.com/en/finland-privacy/#:~:text=The%20Data%20Protection%20Act%20protects,it%20is%20of%20fundamental%20value.)
 - [(Wbp)](https://nl.wikipedia.org/wiki/Wet_bescherming_persoonsgegevens_(Nederland))
 - [hofstede demensions](https://www.hofstede-insights.com/country-comparison-tool?countries=finland%2Cnetherlands)
