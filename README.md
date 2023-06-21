@@ -246,11 +246,6 @@ In this First test I test to see if data from the database gets correctly fetche
 
 In this second test I make sure that the connection string is still correct so that I can make sure that the backend is able to get the data it wants from the database. I do this by checking if the connection string is able to make a connection with the database. If it is able to do this then the test passes. 
 
-## Results:
-
-after struggling with Jest for a while and the test not running correctly and failing I finally got the test able to run and they all pass as you can see in the picture below:
-
-![Screenshot 2023-06-21 113220](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/bb176b48-f046-4643-ac9d-37cf8d00c2ff)
 
 
 ### Front-End tests
@@ -270,6 +265,12 @@ In this second test I test to see if the data gets fetched correctly from the AP
 ![Screenshot 2023-06-21 112341](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/98e46a09-8f93-4293-b336-4f32455c3a43)
 
 In this Third test I test to see if a location is able to be added succesfully. I do this by checking if mock data is able to be submitted as a location. when it's able to do this the test passes.
+
+## Results:
+
+after struggling with Jest for a while and the test not running correctly and failing I finally got the test able to run and they all pass as you can see in the picture below:
+
+![Screenshot 2023-06-21 113220](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/bb176b48-f046-4643-ac9d-37cf8d00c2ff)
 
 # 3 Agile method
 
