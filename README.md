@@ -40,7 +40,7 @@
     - [6.1  designs](#desings)
     - [6.2 User stories](#user-stories)
     - [6.3 designs Group project](#group-project-designs)
-    - [6.4 database model](#database-model)
+    - [6.4 database model & container diagram](#database-model-&-conatiner-diagram)
   
 - [7 Bussiness Process](#7-Bussiness-Process)
 
@@ -448,7 +448,7 @@ the first page (group page) constists of all the groups the logged in user is in
 
 ![Screenshot 2023-06-14 125420](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/beeef855-b44d-4c8e-89bd-2aea44fb03ee)
 
-## database model
+## database model & container diagram:
 ##### we also made a database model for our group project as well as a container diagram:
 
 ![Screenshot 2023-06-19 094454](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/89893d6b-9d40-46f2-825b-32c2c40fcfed)
