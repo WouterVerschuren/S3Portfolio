@@ -54,13 +54,11 @@
 
 ## Introducation:
 
-This Git repository contains all my projects, documentation and where to find everything
+This Git repository will contain all my documation, researches, individual project and group project. 
 
 ## Documentation
-This folder contains all the documentation for my reasearches, designs and choices.
+In this folder you'll be able to find all my researches. 
 
-## Learning Outcomes
-This folder contains both the Learning outcomes for the Group Project and the learning outcomes for the Individual Learning outcomes.
 
 ## Project
 This folder contains all the project information. It consists of all the code and other information. 
