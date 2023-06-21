@@ -54,6 +54,8 @@
  
 - [what I will do differently next time](#what-I-will-do-differently-next-time)
 
+- [Final Word](#Final-Word)
+
 ## Introducation:
 
 This Git repository will contain all my documation, researches, individual project and group project. 
