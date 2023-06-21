@@ -6,7 +6,7 @@
 - [research objective](#objectives-of-this-paper)
 - [Ethics differences](#What-are-the-differences-in-ethics-in-software-in-the-Netherlands-and-Finland)
 - [Hofstede's cultural dimensions](#Hofstede's-cultural-dimensions)
-- [Examples](#examples)
+- [Examples/Own Examples](#examples-Own-Examples)
 - [problems and challenges](#problems-and-challenges)
 - [how to overcome these problems and challenges](#how-to-overcome-these-problems-and-challenges)
 
@@ -62,7 +62,7 @@ When it comes to indulgence the Netherlands scores a little higher then Finland.
 
 More information of the comparison between Finland and the Netherlands with the [hofstede demensions](https://www.hofstede-insights.com/country-comparison-tool?countries=finland%2Cnetherlands)
 
-### Examples:
+### Examples / Own Examples:
 In our group project I noticed that the Dutch people worked much more long term oriented while the Finnish people worked more in a short term perspective. you could notice that when looking at the planning. The planning that the Dutch people made already had user stories of things that where expected to be build in later stages of the project. We also looked more at future challenges and  made sure the project as a whole went fluently. In the Finnish group you could notice that this wasn't the case as they worked more in a short term ortiented way. The tried to finnish a user story as fast as possible without looking at the long term project. When it comes to individualism I also noticed some differences. As for the Dutch people we worked a lot for ourselves and only discused things as a group while on the other hand the Finnish people did most of the things together and worked on the same things at the same time. I also noticed that in our group we were expected to finnish our own work and we believed in our own capabilities. When it comes to indulgence I also noticed a little difference between both countries. as the dutch group definnitly was more optimistic about finishing the project while the Finnish people were more stressed about it. and you noticed that finnish people were a little more to themselves while the Dutch people where very open and weren't afraid to be themselves.
 
 ### problems and challenges:
