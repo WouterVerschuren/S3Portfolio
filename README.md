@@ -230,6 +230,10 @@ I also added a code scan for my frontend project using sonarcloud:
 
 ![Screenshot 2023-06-14 132521](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/f99e523f-ff7b-48d4-bd9a-7440dbc75727)
 
+I also made sure to fix any bugs or other problems:
+
+![Screenshot 2023-06-21 212516](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/ea05ba41-42be-46cc-a772-cb7cb4c5e75a)
+
 here you can easily see if there are any bugs, vulnerabilities and other problems with the code.
 
 ### Back-End Tests:
