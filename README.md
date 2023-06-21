@@ -518,5 +518,9 @@ To show that I have enough knowledge of this learning outcome I made sure to ask
 
 ## what I will do differently next time:
 
-one of the biggest mistakes I made this semester is starting late into the semester and I started late with asking feedback from the teachers. this caused the progress to be slow in the beginning. Eventually I did pick up the pace and got a lot done but next time I am definnitly gonna start a lot earlier to make the semester a lot less stressfull. I also plan on making a better planning so that It's easier for me to follow a stricter plan and this will help me to not procrastinate. I've noticed that ever since the corona pandamic came I have had trouble getting back on track with school but I can tell that slowly but surely it's better. next semester I am gonna keep improving on this so that I will get everything done a lot faster. 
+One of the biggest mistakes I made this semester is starting late into the semester and I started late with asking feedback from the teachers. this caused the progress to be slow in the beginning. Eventually I did pick up the pace and got a lot done but next time I am definnitly gonna start a lot earlier to make the semester a lot less stressfull. I also plan on making a better planning so that It's easier for me to follow a stricter plan and this will help me to not procrastinate. I've noticed that ever since the corona pandamic came I have had trouble getting back on track with school but I can tell that slowly but surely it's better. next semester I am gonna keep improving on this so that I will get everything done a lot faster. 
 another thing that I am planning on doing is to work on my portfolio earlier so that I can show my progress better. I also wanne talk to the teacher more as this semester I waited to long sometimes to ask feedback.
+
+## Final Word:
+
+As my final word I wanna thank both of my teachers, Samuil Angelov & Jean-Paul Ligthart, for their constructive critacism and feedback during this semester as this helped me learn and grow on both a software level and on my profesionalism level. 
