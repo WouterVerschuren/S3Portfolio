@@ -226,7 +226,7 @@ Smoke tests are basic tests that check the basic functionality of an application
 Smoke tests can be useful right after a new build is made to decide whether or not you can run more expensive tests, or right after a deployment to make sure that they application is running properly in the newly deployed environment.
 
 ### Code Scan:
-I also added a code scan for my frontend project using soundcloud:
+I also added a code scan for my frontend project using sonarcloud:
 
 ![Screenshot 2023-06-14 132521](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/f99e523f-ff7b-48d4-bd9a-7440dbc75727)
 
