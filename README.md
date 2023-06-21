@@ -449,9 +449,14 @@ the first page (group page) constists of all the groups the logged in user is in
 ![Screenshot 2023-06-14 125420](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/beeef855-b44d-4c8e-89bd-2aea44fb03ee)
 
 ## database model
-##### we also made a database model for our group project. 
+##### we also made a database model for our group project as well as a container diagram:
 
 ![Screenshot 2023-06-19 094454](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/89893d6b-9d40-46f2-825b-32c2c40fcfed)
+
+
+
+![Untitled_1](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/2bc4049c-6ad7-4d72-b788-2f91b69b7e42)
+
 
 ## 7 Bussiness Process
 
