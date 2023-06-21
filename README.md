@@ -272,7 +272,11 @@ after struggling with Jest for a while and the test not running correctly and fa
 
 ![Screenshot 2023-06-21 113220](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/bb176b48-f046-4643-ac9d-37cf8d00c2ff)
 
-![Screenshot 2023-06-21 112341](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/8ee979f6-ca51-4a96-8ae4-f4c902c07c78)
+
+I decided to create a 4th test. In this tests I check to see if all locations are correctly loaded onto the map page. Since I incountered some Jest problems again I am currently not able to see if this tests works. But when I fix the jest problem there should be one more tests.
+
+![Screenshot 2023-06-21 210802](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/bbbebca9-bcbb-4639-8b95-ae6929e19042)
+
 
 # 3 Agile method
 
