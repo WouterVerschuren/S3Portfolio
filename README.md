@@ -272,6 +272,8 @@ after struggling with Jest for a while and the test not running correctly and fa
 
 ![Screenshot 2023-06-21 113220](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/bb176b48-f046-4643-ac9d-37cf8d00c2ff)
 
+![Screenshot 2023-06-21 112341](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/8ee979f6-ca51-4a96-8ae4-f4c902c07c78)
+
 # 3 Agile method
 
 You choose and implement the most suitable agile software development method for your software project.
