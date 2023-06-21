@@ -248,7 +248,19 @@ In this second test I make sure that the connection string is still correct so t
 
 
 ### Front-End tests
+1.
 
+![Screenshot 2023-06-21 111719](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/e21794ad-6c6e-4237-83ca-5b8a70ece18e)
+In this first test I test to see if the mappage component is correctly loaded. 
+
+2.
+![Screenshot 2023-06-21 111400](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/5d8936d6-d316-4356-b216-3ff15c792be8)
+In this second test I test to see if the data gets fetched correctly from the API. I do this by checking if the fetched location is the same as the mock location. This test will thus also test if the connection between the front end and the api works.
+
+3.
+
+![Screenshot 2023-06-21 112341](https://github.com/WouterVerschuren/S3Portfolio/assets/74074356/98e46a09-8f93-4293-b336-4f32455c3a43)
+In this Third test I test to see if a location is able to be added succesfully. 
 
 # 3 Agile method
 
