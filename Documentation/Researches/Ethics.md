@@ -10,6 +10,11 @@
 - [how to overcome these problems and challenges](#how-to-overcome-these-problems-and-challenges)
 
 
+for this research I am going to be using Library and lab research methods. this means that I will be searching for information and data about the topic and I will be testing this information in my group project where I work together with Finnish people. 
+
+
+Over het algemeen zal ik de de library/desk en workshop strategie gebruiken. Dit houd in dat ik veel bronnen zal gaan lezen er gebruiken, maar ook dat ik een concept ga maken. De bronnen die ik hoop te gaan gebruiken zijn officiële sites van producten die ik kan gebruiken.
+
 ### Introducation:
 
 When people from different cultures/countries work together on software development projects, there are ethical issues and challenges to consider before starting the project. In this research paper we will look at these issues and challenges, this includes topics like intellectual property, privacy, fairness, and cultural respect. the goal of this research paper is to find the best ways to work with challenges when creating a software project with different cultures.
@@ -67,3 +72,11 @@ when working together with people from multiple different countries there can ar
 ### how to overcome these problems and challenges:
 
 one of the challenges is the language difference but thankfully nowadays if there is any confusion you can use translate software to translate things you don't understand. and since most of Finland and the netherlands [speak english](https://www.weforum.org/agenda/2019/11/countries-that-speak-english-as-a-second-language/), there isn't that much of a language barrier. when it comes to cultural difference you can make sure to look into some of the ethical differences between and the netherlands and you can look at the culture of the other country to make sure you understand their ways of living. when it comes to social differnces it's important to make sure you understand the way the other person does certain things and know the way they speak. in the example of dutch people being direct and finnish people being more to themselves, as a dutch person you could make sure that the finnish person is comfortable and you don't say things to blunt or harsh. for the finnish people it could be the oppisite as they could say things a bit more direct. to work around the the time difference it's important to keep a good planning where you both show the dutch time and the finnish time. so that everyone knows the right time of meetings and presenatations. to make sure you everyone is kept up to date, you can create a discord server where you can communicate and discuss all problems and other things.
+
+
+Sources:
+- [(GDPR)](https://www.smartglobalgovernance.com/en/finland-privacy/#:~:text=The%20Data%20Protection%20Act%20protects,it%20is%20of%20fundamental%20value.)
+- [(Wbp)](https://nl.wikipedia.org/wiki/Wet_bescherming_persoonsgegevens_(Nederland))
+- [hofstede demensions](https://www.hofstede-insights.com/country-comparison-tool?countries=finland%2Cnetherlands)
+- [speak english](https://www.weforum.org/agenda/2019/11/countries-that-speak-english-as-a-second-language/)
+
